@@ -1,13 +1,9 @@
 ---
 interface Props {
-	page: {
-		slug: string;
-		title: string;
-		html: string;
-	};
+	slug: string;
 }
 
-const { page } = Astro.props;
+const { slug } = Astro.props;
 const photos = [
 	'IMG_20180418_193026.jpg',
 	'IMG_20180418_193150.jpg',
@@ -17,7 +13,7 @@ const photos = [
 ];
 ---
 
-{page.slug === 'contact' ? (
+{slug === 'contact' ? (
 	<div class="recovery-notice">
 		<p>
 			De oude contactpagina bevatte een formulier, maar de download bevat niet de
@@ -25,10 +21,12 @@ const photos = [
 		</p>
 	</div>
 ) : (
-	<div class="recovered-content" set:html={page.html} />
+	<div class="recovered-content">
+		<slot />
+	</div>
 )}
 
-{page.slug === 'fotos' && (
+{slug === 'fotos' && (
 	<section class="saved-photos" aria-labelledby="saved-photos-title">
 		<h2 id="saved-photos-title">Foto’s uit de download</h2>
 		<p>Deze vijf foto’s waren als bestanden bij de websitekopie opgenomen.</p>

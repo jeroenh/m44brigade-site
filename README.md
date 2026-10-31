@@ -13,9 +13,11 @@ npm run build
 npm run preview
 ```
 
-Recovered content is stored in `src/data/recovered-pages.json` and rendered
-through the shared Astro layout. The five photos included in the download are
-available on the Foto’s page.
+Recovered content is stored as individual Markdown files in `src/pages/`, with
+filenames matching each page’s URL slug (`index.md` is the home page). Each
+file has a title in its frontmatter and contains the recovered page content.
+The pages share an Astro layout, and the five photos included in the download
+are available on the Foto’s page.
 
 ## Known gaps in the recovered copy
 
