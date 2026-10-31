@@ -1,43 +1,29 @@
-# Astro Starter Kit: Minimal
+# M44Brigade website
+
+The Astro site rebuilds the Dutch Memoir ’44 Brigade website from the recovered
+HTML in `20260610223132/`. Recovered pages are presented in a responsive,
+charcoal-and-brown layout inspired by the original site.
+
+## Development
 
 ```sh
-npm create astro@latest -- --template minimal
+npm install
+npm run dev
+npm run build
+npm run preview
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Recovered content is stored in `src/data/recovered-pages.json` and rendered
+through the shared Astro layout. The five photos included in the download are
+available on the Foto’s page.
 
-## 🚀 Project Structure
+## Known gaps in the recovered copy
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- The Dutch Open 2024 event page and several individual news posts were not
+  captured. The Tournament US Open page is represented only by its calendar
+  listing; its full event details were not captured.
+- The contact page had a form, but no working form service or contact address
+  was included.
+- Most images and downloadable documents are referenced by the archived HTML
+  but were not included as files; links are retained where the web archive has
+  a captured copy.
