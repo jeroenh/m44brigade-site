@@ -1,0 +1,19 @@
+---
+import SiteLayout from './SiteLayout.astro';
+import RecoveredContent from '../components/RecoveredContent.astro';
+
+interface Props {
+	frontmatter: {
+		slug: string;
+		title: string;
+	};
+}
+
+const { frontmatter } = Astro.props;
+---
+
+<SiteLayout title={frontmatter.title}>
+	<RecoveredContent slug={frontmatter.slug}>
+		<slot />
+	</RecoveredContent>
+</SiteLayout>
