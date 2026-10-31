@@ -1,0 +1,1306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//185.94.230.146//NONSGML kigkonsult.se iCalcreator 2.20//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:http://m44brigade.nl
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:STANDARD
+DTSTART:20211031T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RDATE:20221030T030000
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-3381@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Opnieuw organiseren de Vlaamse memoir’44 spelers een toernooi. 
+ Het thema is: Saving private Ryan. Een aanrader om naar toe te gaan\, met 
+ veel gezelligheid en  waardige tegenstanders. Er worden 4 scenario’s gespe
+ eeld\nhoudt vooral het memoir’44 forum in de gaten voor meer informatie:\n
+ https://www.daysofwonder.com/en/msg/?th=37349&start=0\nVanuit verschillend
+ e plekken in Nederland zullen er mensen naar dit toernooi gaan. Heb je zin
+ \, maar zie je op tegen de reis neem dan contact met ons op. misschien dat
+  er iemand is waarmee je kan carpoolen.\nTickets: https://www.daysofwonder
+ .com/en/msg/?th=37349&start=0.
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+LOCATION:Melle\, België
+SEQUENCE:0
+SUMMARY:Toernooi Melle (BE)
+URL:http://m44brigade.nl/activiteit/toernooi-melle-be-3/
+X-COST-TYPE:external
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Opnieuw organ
+ iseren de Vlaamse memoir’44 spelers een toernooi. Het thema is: Saving pri
+ vate Ryan. Een aanrader om naar toe te gaan\, met veel gezelligheid en  wa
+ ardige tegenstanders. Er worden 4 scenario’s gespeeeld</p>\n<p>houdt voora
+ l het memoir’44 forum in de gaten voor meer informatie:<br />\n<a href='ht
+ tps://www.daysofwonder.com/en/thread/?frm_id=90'>https://www.daysofwonder.
+ com/en/msg/?th=37349&start=0</a></p>\n<p>Vanuit verschillende plekken in N
+ ederland zullen er mensen naar dit toernooi gaan. Heb je zin\, maar zie je
+  op tegen de reis neem dan contact met ons op. misschien dat er iemand is 
+ waarmee je kan carpoolen.</p>\n<p>Tickets: <a class='ai1ec-ticket-url-expo
+ rted' href='https://www.daysofwonder.com/en/msg/?th=37349&start=0'>https:/
+ /www.daysofwonder.com/en/msg/?th=37349&start=0</a>.</p></BODY></HTML>
+X-COST:15
+X-TICKETS-URL:https://www.daysofwonder.com/en/msg/?th=37349&start=0
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3846@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:info@m44brigade.nl
+DESCRIPTION:Zoals ieder jaar sinds de uitbreiding uitkwam organiseert de M4
+ 4Brigade een speeldag Waarbij we D-Day landings spelen.  Met 12 personen a
+ an een bord (6 tegen 6) proberen we de geschiedenis te herhalen\, of te ve
+ randeren. Om het spel op te zetten heb je een enorme berg aan materiaal no
+ dig Gelukkig hebben wij deze tot onze beschikking en hoef je alleen maar g
+ ezelligheid mee te nemen.\nOm deel te nemen stuur je een email naar info@m
+ 44brigade.nl. Vermeld hierbij je naam\, eventuele pseudo en aan welke van 
+ de sessie je deel wil nemen. Voor het avondprogramma is geen aanmelding no
+ dig.\nDe dag ziet er als volgt uit:\nEerste sessie:\nKosten: 2\,-\nUitleg 
+ om: 9:00\nStart spel: 9:30\neinde spel: 13:30\nTweede sessie:\nKosten: 2\,
+ -\nStart spel: 14:00\neinde spel: 18:00\nDiner:\nKosten: We halen op eigen
+  kosten iets te eten bij de plaatselijke pizzeria.\ngeen aanmelding vereis
+ t\nStart: 18:00\nEinde: 19:00\nAvond programma:\nkosten: 1\,- geen aanmeld
+ ing vereist\nStart: 19:00 (maar als je wil mee eten mag je ook eerder kome
+ n)\nHet avond programma vullen we in als een speelavond. Dit wil zeggen da
+ t we verschillende scenarios bij hebben die gespeeld kunnen worden\, van s
+ tandaard tot overlord. Afhankelijk van de spelers is het ook mogelijk nog 
+ een potje DDay landings te doen.\n 
+DTSTART;VALUE=DATE:20190608
+DTEND;VALUE=DATE:20190609
+GEO:+51.664173;+4.530307
+LOCATION:Klundert @ Von Kropffplein 1\, 4791 HW Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:D-Day landings + Speelavond
+URL:http://m44brigade.nl/activiteit/d-day-landings-speeldag-4/
+X-COST-TYPE:external
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Zoals ieder j
+ aar sinds de uitbreiding uitkwam organiseert de M44Brigade een speeldag Wa
+ arbij we D-Day landings spelen.  Met 12 personen aan een bord (6 tegen 6) 
+ proberen we de geschiedenis te herhalen\, of te veranderen. Om het spel op
+  te zetten heb je een enorme berg aan materiaal nodig Gelukkig hebben wij 
+ deze tot onze beschikking en hoef je alleen maar gezelligheid mee te nemen
+ .</p>\n<p>Om deel te nemen stuur je een email naar info@m44brigade.nl. Ver
+ meld hierbij je naam\, eventuele pseudo en aan welke van de sessie je deel
+  wil nemen. Voor het avondprogramma is geen aanmelding nodig.<br />\nDe da
+ g ziet er als volgt uit:</p>\n<p><strong>Eerste sessie:</strong><br />\nKo
+ sten: 2\,-<br />\nUitleg om: 9:00<br />\nStart spel: 9:30<br />\neinde spe
+ l: 13:30</p>\n<p><strong>Tweede sessie:</strong><br />\nKosten: 2\,-<br />
+ \nStart spel: 14:00<br />\neinde spel: 18:00</p>\n<p><strong>Diner:<br />
+ \n</strong>Kosten: We halen op eigen kosten iets te eten bij de plaatselij
+ ke pizzeria.<br />\ngeen aanmelding vereist<br />\nStart: 18:00<br />\nEin
+ de: 19:00</p>\n<p><strong style='font-size: 0.95em\;'>Avond programma:<br 
+ />\n</strong>kosten: 1\,- geen aanmelding vereist<br />\nStart: 19:00 (maa
+ r als je wil mee eten mag je ook eerder komen)<br />\nHet avond programma 
+ vullen we in als een speelavond. Dit wil zeggen dat we verschillende scena
+ rios bij hebben die gespeeld kunnen worden\, van standaard tot overlord. A
+ fhankelijk van de spelers is het ook mogelijk nog een potje DDay landings 
+ te doen.</p>\n<p> </p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5051@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:info@m44brigade.nl
+DESCRIPTION:Beste spelers\,\nHelaas gaat door de omstandigheden ook de D-Da
+ y landingsspeeldag niet door.\n \nZoas ieder jaar sinds de uitbreiding uit
+ kwam organiseert de M44Brigade een speeldag Waarbij we D-Day landings spel
+ en.  Met 12 personen aan een bord (6 tegen 6) proberen we de geschiedenis 
+ te herhalen\, of te veranderen. Om het spel op te zetten heb je een enorme
+  berg aan materiaal nodig Gelukkig hebben wij deze tot onze beschikking en
+  hoef je alleen maar gezelligheid mee te nemen.\nOm deel te nemen stuur je
+  een email naar info(apenstaartje)m44brigade.nl. Vermeld hierbij je naam\,
+  eventuele pseudo en aan welke van de sessie(s) je wilt deelnemen. Voor he
+ t avondprogramma is geen aanmelding nodig. LET OP: We spelen op een andere
+  locatie dan het zaaltje in klundert\, namelijk spellenwinkel Speel in Ble
+ iswijk\nDe dag ziet er als volgt uit:\nEerste sessie:\nKosten: 1\,-\nUitle
+ g om: 9:00\nStart spel: 9:30\neinde spel: 13:00\nTweede sessie:\nKosten: 1
+ \,-\nStart spel: 13:30\neinde spel: 17:00\nDiner:\nKosten: We halen op eig
+ en kosten iets te eten bij de plaatselijke pizzeria of iets dergelijks.\ng
+ een aanmelding vereist\nStart: 17:30\nEinde: 18:30\nAvond programma:\nkost
+ en: Geen kosten en geen aanmelding vereist\nStart: 18:30 (maar als je wil 
+ mee eten mag je ook eerder komen)\nHet avond programma vullen we in als ee
+ n speelavond. Dit wil zeggen dat we verschillende scenario’s bij hebben di
+ e gespeeld kunnen worden\, van standaard tot overlord. Afhankelijk van de 
+ spelers is het ook mogelijk nog een potje DDay landings te doen.\n 
+DTSTART;VALUE=DATE:20200606
+DTEND;VALUE=DATE:20200607
+GEO:+51.664173;+4.530307
+LOCATION:Speel in Bleiswijk @ Dorpsstraat 7\, 2665 BG Bleiswijk
+SEQUENCE:0
+SUMMARY:Gecanceld: D-Day landings + Speelavond
+URL:http://m44brigade.nl/activiteit/d-day-landings-speelavond/
+X-COST-TYPE:external
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Beste spelers
+ \,</p>\n<p>Helaas gaat door de omstandigheden ook de D-Day landingsspeelda
+ g niet door.</p>\n<p> </p>\n<p><del>Zoas ieder jaar sinds de uitbreiding u
+ itkwam organiseert de M44Brigade een speeldag Waarbij we D-Day landings sp
+ elen.  Met 12 personen aan een bord (6 tegen 6) proberen we de geschiedeni
+ s te herhalen\, of te veranderen. Om het spel op te zetten heb je een enor
+ me berg aan materiaal nodig Gelukkig hebben wij deze tot onze beschikking 
+ en hoef je alleen maar gezelligheid mee te nemen.</del></p>\n<p><del>Om de
+ el te nemen stuur je een email naar info(apenstaartje)m44brigade.nl. Verme
+ ld hierbij je naam\, eventuele pseudo en aan welke van de sessie(s) je wil
+ t deelnemen. Voor het avondprogramma is geen aanmelding nodig. LET OP: We 
+ spelen op een andere locatie dan het zaaltje in klundert\, namelijk spelle
+ nwinkel Speel in Bleiswijk</del><br />\n<del>De dag ziet er als volgt uit:
+ </del></p>\n<p><del><strong>Eerste sessie:</strong></del><br />\n<del>Kost
+ en: 1\,-</del><br />\n<del>Uitleg om: 9:00</del><br />\n<del>Start spel: 9
+ :30</del><br />\n<del>einde spel: 13:00</del></p>\n<p><del><strong>Tweede 
+ sessie:</strong></del><br />\n<del>Kosten: 1\,-</del><br />\n<del>Start sp
+ el: 13:30</del><br />\n<del>einde spel: 17:00</del></p>\n<p><del><strong>D
+ iner:<br />\n</strong>Kosten: We halen op eigen kosten iets te eten bij de
+  plaatselijke pizzeria of iets dergelijks.</del><br />\n<del>geen aanmeldi
+ ng vereist</del><br />\n<del>Start: 17:30</del><br />\n<del>Einde: 18:30</
+ del></p>\n<p><del><strong style='font-size: 0.95em\;'>Avond programma:<br 
+ />\n</strong>kosten: Geen kosten en geen aanmelding vereist</del><br />\n<
+ del>Start: 18:30 (maar als je wil mee eten mag je ook eerder komen)</del><
+ br />\n<del>Het avond programma vullen we in als een speelavond. Dit wil z
+ eggen dat we verschillende scenario’s bij hebben die gespeeld kunnen worde
+ n\, van standaard tot overlord. Afhankelijk van de spelers is het ook moge
+ lijk nog een potje DDay landings te doen.</del></p>\n<p> </p>\n</BODY></HT
+ ML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7421@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Unternehmen Zitadelle.\nWeet jij het Russiche salliant succesvo
+ l te bestormen? Of sla jij de Duitsers terug en kan de opmars naar Duitsla
+ nd beginnen?\nTijdens de Dutch Open 2021 komen we daarachter!\nInschrijven
+ \, regels en vademecum vindt je hier
+DTSTART;VALUE=DATE:20211023
+DTEND;VALUE=DATE:20211025
+LOCATION:Niervaert (Klundert) @ Molenvliet 7 4791BB Klundert
+SEQUENCE:0
+SUMMARY:Dutch Open 2021
+URL:http://m44brigade.nl/activiteit/dutch-open-2021-voorbehoud/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Unternehmen Z
+ itadelle.<br />\nWeet jij het Russiche salliant succesvol te bestormen? Of
+  sla jij de Duitsers terug en kan de opmars naar Duitsland beginnen?<br />
+ \nTijdens de Dutch Open 2021 komen we daarachter!</p>\n<p>Inschrijven\, re
+ gels en vademecum vindt je <strong><a href='http://m44brigade.nl/dutch-ope
+ n-2021'>hier</a></strong></p>\n</BODY></HTML>
+X-COST:€30\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8630@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:M44Brigade is niet aan landsgrenzen gebonden\, daarom zijn we o
+ ok met een demoteam te vinden op Spel-Plezier. Kom langs om het spel te le
+ ren\, om een potje memoir te spelen als je het al kent of een gezellig pra
+ atje.\nMeer informatie over deze spellenbeurs vind je op http://www.spel-p
+ lezier.be
+DTSTART;VALUE=DATE:20211120
+DTEND;VALUE=DATE:20211121
+LOCATION:Antwerp Expo @ Jan van Rijswijcklaan 191 2020 Antwerpen
+SEQUENCE:0
+SUMMARY:Demo @spel-plezier
+URL:http://m44brigade.nl/activiteit/demo-spel-plezier/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>M44Brigade is
+  niet aan landsgrenzen gebonden\, daarom zijn we ook met een demoteam te v
+ inden op Spel-Plezier. Kom langs om het spel te leren\, om een potje memoi
+ r te spelen als je het al kent of een gezellig praatje.<br />\nMeer inform
+ atie over deze spellenbeurs vind je op <a href='http://www.spel-plezier.be
+ '>http://www.spel-plezier.be</a></p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8581@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:De datum Staat!\nverdere info volgt snel……..
+DTSTART;VALUE=DATE:20220402
+DTEND;VALUE=DATE:20220404
+LOCATION:Niervaert (Klundert) @ Molenvliet 7 4791BB Klundert
+SEQUENCE:0
+SUMMARY:Dutch Open 2022
+URL:http://m44brigade.nl/activiteit/dutch-open-2022/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>De datum Staa
+ t!<br />\nverdere info volgt snel……..</p>\n</BODY></HTML>
+X-COST:€30\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8590@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Eéndags Toernooi van onze Belgische Spelvrienden.\nNadere info 
+ volgt.
+DTSTART;VALUE=DATE:20220430
+DTEND;VALUE=DATE:20220501
+SEQUENCE:0
+SUMMARY:Toernooi Melle
+URL:http://m44brigade.nl/activiteit/toernooi-melle/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Eéndags Toern
+ ooi van onze Belgische Spelvrienden.<br />\nNadere info volgt.</p>\n</BODY
+ ></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3145@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:De French open is dit jaar weer in Parijs.\nMeer informatie vin
+ dt je op het Forum van de Franse Federatie\nhttps://www.daysofwonder.com/e
+ n/thread/?frm_id=66
+DTSTART;TZID=Europe/Amsterdam:20190413T090700
+DTEND;TZID=Europe/Amsterdam:20190414T180000
+LOCATION:Musée de la Carte @ 16 Rue Auguste Gervais\, 92130 Issy-les-Moulin
+ eaux\, Frankrijk
+SEQUENCE:0
+SUMMARY:French Open 2019
+URL:http://m44brigade.nl/activiteit/french-open-2019/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>De French ope
+ n is dit jaar weer in Parijs.<br />\nMeer informatie vindt je op het Forum
+  van de Franse Federatie</p>\n<p><a href='https://www.daysofwonder.com/en/
+ thread/?frm_id=66'>https://www.daysofwonder.com/en/thread/?frm_id=66</a></
+ p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-3948@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION:Op zaterdagavond 18 mei organiseert M44Brigade weer een memoir’
+ 44 speelavond.\nVanaf 19:00 kan er memoir’44 gespeeld worden op elk front 
+ en in elk formaat.\nOm de kosten te dekken vragen wij een bijdrage van € 2
+ \,-\,\ndrinken en versnaperingen zijn te verkrijgen voor zeer schappelijke
+  prijzen.\nAanmelden voor deze speelavond is niet nodig.\nHet maakt niet u
+ it of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. Er is
+  altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidingen wil
+  spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je dus voo
+ ral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 speler.\n
+ Net als de vorige keren zal er in ieder geval een Overlord op tafel komen 
+ om 19:15\, wie dat nog niet gespeeld heeft of juist goed bevallen is kan h
+ ier alvast rekening mee houden.\nRoute informatie:\nAls je op het adres (V
+ on Kropfplein 1\, Klundert) aangekomen bent moet je aan de achterkant van 
+ de kerk zijn\, hier bevindt zich de zaal waar we spelen. Achter de kerk is
+  ook ruimschoots (gratis) parkeergelegenheid.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20190518T190000
+DTEND;TZID=Europe/Amsterdam:20190518T234500
+GEO:+51.664356;+4.532883
+LOCATION:vonkropfplein 1 Klundert @ 4791 Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:M44Brigade speelavond
+URL:http://m44brigade.nl/activiteit/m44brigade-speelavond-22/
+X-COST-TYPE:external
+X-WP-IMAGES-URL:thumbnail\;http://m44brigade.nl/wp-content/uploads/2015/11/
+ m44-speelavond-transparant-300x246.png\;300\;246\,medium\;http://m44brigad
+ e.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300x246.png\;30
+ 0\;246\,large\;http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelav
+ ond-transparant-300x246.png\;300\;246\,full\;http://m44brigade.nl/wp-conte
+ nt/uploads/2015/11/m44-speelavond-transparant-300x246.png\;300\;246
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p><a href='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant.png
+ '><img loading='lazy' class='alignnone size-medium wp-image-525' src='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300
+ x246.png' alt='m44 speelavond transparant' width='300' height='246' srcset
+ ='http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transpara
+ nt-300x246.png 300w\, http://m44brigade.nl/wp-content/uploads/2015/11/m44-
+ speelavond-transparant-1024x841.png 1024w\, http://m44brigade.nl/wp-conten
+ t/uploads/2015/11/m44-speelavond-transparant.png 1600w' sizes='(max-width:
+  300px) 100vw\, 300px' /></a></p>\n<p>Op <strong>zaterdagavond 18 mei </st
+ rong>organiseert M44Brigade weer een memoir’44 speelavond.<br />\nVanaf 19
+ :00 kan er memoir’44 gespeeld worden op elk front en in elk formaat.<br />
+ \nOm de kosten te dekken vragen wij een bijdrage van € 2\,-\,<br />\ndrink
+ en en versnaperingen zijn te verkrijgen voor zeer schappelijke prijzen.<br
+  />\nAanmelden voor deze speelavond is niet nodig.</p>\n<p>Het maakt niet 
+ uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. Er i
+ s altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidingen wi
+ l spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je dus vo
+ oral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 speler.<
+ br />\nNet als de vorige keren zal er in ieder geval een Overlord op tafel
+  komen om 19:15\, wie dat nog niet gespeeld heeft of juist goed bevallen i
+ s kan hier alvast rekening mee houden.</p>\n<p>Route informatie:<br />\nAl
+ s je op het adres (Von Kropfplein 1\, Klundert) aangekomen bent moet je aa
+ n de achterkant van de kerk zijn\, hier bevindt zich de zaal waar we spele
+ n. Achter de kerk is ook ruimschoots (gratis) parkeergelegenheid.</p>\n<p>
+ Tot dan!</p>\n</BODY></HTML>
+X-COST:2 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4227@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:De Memoir’44 Brigade demonstreert Memoir’44 op Speelwarden. Voo
+ r beginners demoën standaard scenarios en voor gevorderden hebben we New F
+ light plan bij ons.\n 
+DTSTART;TZID=Europe/Amsterdam:20190706T100000
+DTEND;TZID=Europe/Amsterdam:20190706T180000
+LOCATION:WestCord WTC Hotel Leeuwarden @ Heliconweg 52\, 8914AT Leeuwarden
+SEQUENCE:0
+SUMMARY:M44 Demo Speelwarden
+URL:http://m44brigade.nl/activiteit/m44-demo-speelwarden/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>De Memoir’44 
+ Brigade demonstreert Memoir’44 op Speelwarden. Voor beginners demoën stand
+ aard scenarios en voor gevorderden hebben we New Flight plan bij ons.</p>
+ \n<p> </p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4095@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:13 juli kan er Memoir’44 gespeeld worden bij Speel! in Bleiswij
+ k.\nHeb je altijd al eens memoir’44 willen proberen\, maar kom je er niet 
+ aan toe? Laat het je dan uitleggen door ons enthousiaste demo team.\nDaarn
+ aast hebben we ook de nieuwste uitbreiding “New Flight Plan” bij voor iede
+ reen die die het slagveld van boven wil domineren. Natuurlijk hebben we oo
+ k alle andere uitbreidingen bij en kan je de scenario’s van de verschillen
+ de toernooien proberen.\nTenslotte is er de mogelijkheid om een overlord t
+ e spelen. Deze starten we om 13:00\, 15:00 en 19:00.\n 
+DTSTART;TZID=Europe/Amsterdam:20190713T100000
+DTEND;TZID=Europe/Amsterdam:20190713T220000
+LOCATION:Speel!  @ Dorpsstraat 7 2665 BG Bleiswijk
+SEQUENCE:0
+SUMMARY:Demo dag
+URL:http://m44brigade.nl/activiteit/demo-dag/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>13 juli kan e
+ r Memoir’44 gespeeld worden bij Speel! in Bleiswijk.<br />\nHeb je altijd 
+ al eens memoir’44 willen proberen\, maar kom je er niet aan toe? Laat het 
+ je dan uitleggen door ons enthousiaste demo team.</p>\n<p>Daarnaast hebben
+  we ook de nieuwste uitbreiding “New Flight Plan” bij voor iedereen die di
+ e het slagveld van boven wil domineren. Natuurlijk hebben we ook alle ande
+ re uitbreidingen bij en kan je de scenario’s van de verschillende toernooi
+ en proberen.</p>\n<p>Tenslotte is er de mogelijkheid om een overlord te sp
+ elen. Deze starten we om 13:00\, 15:00 en 19:00.</p>\n<p> </p>\n</BODY></H
+ TML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4039@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION:Op zaterdagavond 14 september organiseert M44Brigade weer een m
+ emoir’44 speelavond.\nVanaf 19:00 kan er memoir’44 gespeeld worden op elk 
+ front en in elk formaat.\nOm de kosten te dekken vragen wij een bijdrage v
+ an € 2\,-\,\ndrinken en versnaperingen zijn te verkrijgen voor zeer schapp
+ elijke prijzen.\nAanmelden voor deze speelavond is niet nodig.\nHet maakt 
+ niet uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler.
+  Er is altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreiding
+ en wil spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je d
+ us vooral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 spe
+ ler.\nNet als de vorige keren zal er in ieder geval een Overlord op tafel 
+ komen om 19:15\, wie dat nog niet gespeeld heeft of juist goed bevallen is
+  kan hier alvast rekening mee houden.\nRoute informatie:\nAls je op het ad
+ res (Von Kropfplein 1\, Klundert) aangekomen bent moet je aan de achterkan
+ t van de kerk zijn\, hier bevindt zich de zaal waar we spelen. Achter de k
+ erk is ook ruimschoots (gratis) parkeergelegenheid.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20190914T190000
+DTEND;TZID=Europe/Amsterdam:20190914T234500
+GEO:+51.664356;+4.532883
+LOCATION:vonkropfplein 1 Klundert @ 4791 Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:M44Brigade speelavond
+URL:http://m44brigade.nl/activiteit/m44brigade-speelavond-23/
+X-COST-TYPE:external
+X-WP-IMAGES-URL:thumbnail\;http://m44brigade.nl/wp-content/uploads/2015/11/
+ m44-speelavond-transparant-300x246.png\;300\;246\,medium\;http://m44brigad
+ e.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300x246.png\;30
+ 0\;246\,large\;http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelav
+ ond-transparant-300x246.png\;300\;246\,full\;http://m44brigade.nl/wp-conte
+ nt/uploads/2015/11/m44-speelavond-transparant-300x246.png\;300\;246
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p><a href='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant.png
+ '><img loading='lazy' class='alignnone size-medium wp-image-525' src='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300
+ x246.png' alt='m44 speelavond transparant' width='300' height='246' srcset
+ ='http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transpara
+ nt-300x246.png 300w\, http://m44brigade.nl/wp-content/uploads/2015/11/m44-
+ speelavond-transparant-1024x841.png 1024w\, http://m44brigade.nl/wp-conten
+ t/uploads/2015/11/m44-speelavond-transparant.png 1600w' sizes='(max-width:
+  300px) 100vw\, 300px' /></a></p>\n<p>Op <strong>zaterdagavond 14 septembe
+ r </strong>organiseert M44Brigade weer een memoir’44 speelavond.<br />\nVa
+ naf 19:00 kan er memoir’44 gespeeld worden op elk front en in elk formaat.
+ <br />\nOm de kosten te dekken vragen wij een bijdrage van € 2\,-\,<br />
+ \ndrinken en versnaperingen zijn te verkrijgen voor zeer schappelijke prij
+ zen.<br />\nAanmelden voor deze speelavond is niet nodig.</p>\n<p>Het maak
+ t niet uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 spele
+ r. Er is altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidi
+ ngen wil spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je
+  dus vooral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 s
+ peler.<br />\nNet als de vorige keren zal er in ieder geval een Overlord o
+ p tafel komen om 19:15\, wie dat nog niet gespeeld heeft of juist goed bev
+ allen is kan hier alvast rekening mee houden.</p>\n<p>Route informatie:<br
+  />\nAls je op het adres (Von Kropfplein 1\, Klundert) aangekomen bent moe
+ t je aan de achterkant van de kerk zijn\, hier bevindt zich de zaal waar w
+ e spelen. Achter de kerk is ook ruimschoots (gratis) parkeergelegenheid.</
+ p>\n<p>Tot dan!</p>\n</BODY></HTML>
+X-COST:2 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4275@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Op de Ducosim beurs kan je naast allerhande andere bordspellen 
+ ook weer langs komen voor een potje Memoir’44. We leggen het spel graag ui
+ t aan beginnende spelers.\nMocht je al bekend zijn met het spel dan kunnen
+  we ook de laatste nieuwe uitbreiding New Flight Plan op tafel leggen. Of 
+ iets anders als je daar meer zin in hebt. En misschien zit er wel een potj
+ e in tegen een van onze ervaren demo-ers. 🙂
+DTSTART;TZID=Europe/Amsterdam:20190928T100000
+DTEND;TZID=Europe/Amsterdam:20190928T173000
+LOCATION:Theater de Flint\, Amesfoort
+SEQUENCE:0
+SUMMARY:Demo @ Ducosim
+URL:http://m44brigade.nl/activiteit/demo-ducosim-3/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Op de Ducosim
+  beurs kan je naast allerhande andere bordspellen ook weer langs komen voo
+ r een potje Memoir’44. We leggen het spel graag uit aan beginnende spelers
+ .</p>\n<p>Mocht je al bekend zijn met het spel dan kunnen we ook de laatst
+ e nieuwe uitbreiding New Flight Plan op tafel leggen. Of iets anders als j
+ e daar meer zin in hebt. En misschien zit er wel een potje in tegen een va
+ n onze ervaren demo-ers. 🙂</p>\n</BODY></HTML>
+X-COST:€7\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4273@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Het maandthema in oktober van de Bibliotheek Deventer is ontdek
+ ken.\nEn als wij daarbij aansluiten wordt er natuurlijk maar één ding ontd
+ ekt: Memoir’44\n \nOp deze zaterdag demoën we Memoir’44 dus in de centrale
+  Bibliotheek in Deventer aan de Stromarkt 18.\n \nBeginners en gevorderden
+  zijn van harte welkom om een potje te komen spelen of Memoir’44 uitgelegd
+  te krijgen.\n \nBevalt het? Dan kan je de week er op meedoen met een eend
+ agstoernooi op dezelfde locatie!
+DTSTART;TZID=Europe/Amsterdam:20191012T100000
+DTEND;TZID=Europe/Amsterdam:20191012T160000
+LOCATION:de Bibliotheek te Deventer @ Stromarkt 18\, 7411PK Deventer
+SEQUENCE:0
+SUMMARY:Demo
+URL:http://m44brigade.nl/activiteit/demo-ducosim-2/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Het maandthem
+ a in oktober van de Bibliotheek Deventer is ontdekken.</p>\n<p>En als wij 
+ daarbij aansluiten wordt er natuurlijk maar één ding ontdekt: Memoir’44</p
+ >\n<p> </p>\n<p>Op deze zaterdag demoën we Memoir’44 dus in de centrale Bi
+ bliotheek in Deventer aan de Stromarkt 18.</p>\n<p> </p>\n<p>Beginners en 
+ gevorderden zijn van harte welkom om een potje te komen spelen of Memoir’4
+ 4 uitgelegd te krijgen.</p>\n<p> </p>\n<p>Bevalt het? Dan kan je de week e
+ r op meedoen met een eendagstoernooi op dezelfde locatie!</p>\n</BODY></HT
+ ML>
+X-COST:€7\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4278@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:De Memoir’44 Brigade Nederland organiseert weer een eendaags to
+ ernooi.\n \nHet 4 Basis toernooi.\n \nWat gaan we doen?\nOm het een keer m
+ akkelijk te maken organiseren we een dagtoernooi met 4 scenarios met allee
+ n maar basisregels.\n \nWanneer?\nZaterdag 19 oktober 2019\n09u00 18u00\n 
+ \nWaar?\nDe Bibliotheek Deventer\nStromarkt 18\n7411PK Deventer\nNederland
+ \n \nAvondprogramma\nVoor de liefhebbers spelen we ’s avonds nadat we wat 
+ zijn gaan eten nog een Overlord.\nWat kost het?\nDeelname is EUR 1\,-\, Te
+  voldoen op de dag zelf. Voor leden van de Bibliotheek Deventer is het toe
+ rnooi gratis.\nAls je een geprint setje van de vier gespeelde scenario’s m
+ ee wil nemen dan kost dat EUR 6.\nWil je ook ’s avonds gezellig met de ove
+ rlord meespelen\, dan komt er EUR 1\,- bij.\nOok te betalen op de dag zelf
+ .\n \nHet Reglement vind je hier: http://m44brigade.nl/wp-content/uploads/
+ 2019/08/M44-4BasisToernooiReglement.pdf\nOpgeven voor het toernooi doe je 
+ door voor 13 oktober een mail te sturen naar:\ninfo@m44brigade.nl\n \nVerm
+ eld daarin:\nVoornaam:\nAchteraam:\nPseudo Days of Wonder: indien je die h
+ ebt\nOf je een setje scenarios wil hebben à EUR 6\,-.\nGeboortedatum:\nGSM
+  nummer:\nOf je deelneemt aan het avondprogramma: Gezellig Overlord spelen
+ .\nEr kunnen maximaal 40 deelnemers inschrijven\, daarna kom je op een res
+ ervelijst.\n \nDe scenarios die we gaan spelen zijn:\n \nOperation Spring
+ \nhttps://www.daysofwonder.com/memoir44/en/editor/view/?id=26\n \nOperatio
+ n Cobra\nhttps://www.daysofwonder.com/memoir44/en/editor/view/?id=15\n \nF
+ orêt d’Ecouves\nhttps://www.daysofwonder.com/memoir44/en/editor/view/?id=7
+ 045\n \nSt. Vith\nhttps://www.daysofwonder.com/memoir44/en/editor/view/?id
+ =20\n \n \nOmdat de scenario’s van te voren al bekend zijn kan je dus oefe
+ nen.\nDat zullen wij op de komende speelavond\, 14 september\, zeker doen.
+ \n \n \nTot de 19eoktober!  🙂
+DTSTART;TZID=Europe/Amsterdam:20191019T090000
+DTEND;TZID=Europe/Amsterdam:20191019T180000
+LOCATION:Bibliotheek Deventer @ Stromarkt 18 7411 PK
+SEQUENCE:0
+SUMMARY:“4-maal Basis” eendagstoernooi
+URL:http://m44brigade.nl/activiteit/4-maal-basis-eendagstoernooi/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>De Memoir’44 
+ Brigade Nederland organiseert weer een eendaags toernooi.</p>\n<p> </p>\n<
+ p><strong>Het 4 Basis toernooi.</strong></p>\n<p> </p>\n<p>Wat gaan we doe
+ n?</p>\n<p>Om het een keer makkelijk te maken organiseren we een dagtoerno
+ oi met 4 scenarios met alleen maar basisregels.</p>\n<p> </p>\n<p><strong>
+ Wanneer?</strong></p>\n<p>Zaterdag 19 oktober 2019</p>\n<p>09u00 18u00</p>
+ \n<p> </p>\n<p><strong>Waar?</strong><br />\nDe Bibliotheek Deventer</p>\n
+ <p>Stromarkt 18</p>\n<p>7411PK Deventer<br />\nNederland</p>\n<p> </p>\n<p
+ ><strong>Avondprogramma</strong><br />\nVoor de liefhebbers spelen we ’s a
+ vonds nadat we wat zijn gaan eten nog een Overlord.</p>\n<p>Wat kost het?<
+ /p>\n<p>Deelname is EUR 1\,-\, Te voldoen op de dag zelf. Voor leden van d
+ e Bibliotheek Deventer is het toernooi gratis.</p>\n<p>Als je een geprint 
+ setje van de vier gespeelde scenario’s mee wil nemen dan kost dat EUR 6.</
+ p>\n<p>Wil je ook ’s avonds gezellig met de overlord meespelen\, dan komt 
+ er EUR 1\,- bij.</p>\n<p>Ook te betalen op de dag zelf.</p>\n<p> </p>\n<p>
+ Het Reglement vind je hier: <a href='http://m44brigade.nl/wp-content/uploa
+ ds/2019/08/M44-4BasisToernooiReglement.pdf'>http://m44brigade.nl/wp-conten
+ t/uploads/2019/08/M44-4BasisToernooiReglement.pdf</a></p>\n<p>Opgeven voor
+  het toernooi doe je door voor 13 oktober een mail te sturen naar:</p>\n<p
+ >info@m44brigade.nl</p>\n<p> </p>\n<p>Vermeld daarin:<br />\nVoornaam:<br 
+ />\nAchteraam:<br />\nPseudo Days of Wonder: indien je die hebt</p>\n<p>Of
+  je een setje scenarios wil hebben à EUR 6\,-.</p>\n<p>Geboortedatum:<br /
+ >\nGSM nummer:<br />\nOf je deelneemt aan het avondprogramma: Gezellig Ove
+ rlord spelen.</p>\n<p>Er kunnen maximaal 40 deelnemers inschrijven\, daarn
+ a kom je op een reservelijst.</p>\n<p> </p>\n<p>De scenarios die we gaan s
+ pelen zijn:</p>\n<p> </p>\n<p>Operation Spring</p>\n<p><a href='https://ww
+ w.daysofwonder.com/memoir44/en/editor/view/?id=26'>https://www.daysofwonde
+ r.com/memoir44/en/editor/view/?id=26</a></p>\n<p> </p>\n<p>Operation Cobra
+ </p>\n<p><a href='https://www.daysofwonder.com/memoir44/en/editor/view/?id
+ =15'>https://www.daysofwonder.com/memoir44/en/editor/view/?id=15</a></p>\n
+ <p> </p>\n<p>Forêt d’Ecouves</p>\n<p><a href='https://www.daysofwonder.com
+ /memoir44/en/editor/view/?id=7045'>https://www.daysofwonder.com/memoir44/e
+ n/editor/view/?id=7045</a></p>\n<p> </p>\n<p>St. Vith</p>\n<p><a href='htt
+ ps://www.daysofwonder.com/memoir44/en/editor/view/?id=20'>https://www.days
+ ofwonder.com/memoir44/en/editor/view/?id=20</a></p>\n<p> </p>\n<p> </p>\n<
+ p>Omdat de scenario’s van te voren al bekend zijn kan je dus oefenen.</p>
+ \n<p>Dat zullen wij op de komende speelavond\, 14 september\, zeker doen.<
+ /p>\n<p> </p>\n<p> </p>\n<p>Tot de 19<sup>e</sup>oktober!  🙂</p>\n</BODY><
+ /HTML>
+X-COST:€5\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4594@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Belgische toernooien/speeldagen
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION:Op zaterdagavond 2 november organiseert M44Brigade weer een\nMe
+ moir’44 speelavond.\nVanaf 19:00 kan er memoir’44 gespeeld worden op elk f
+ ront en in elk formaat.\nOm de kosten te dekken vragen wij een bijdrage va
+ n € 2\,-\,\ndrinken en versnaperingen zijn te verkrijgen voor zeer schappe
+ lijke prijzen.\nAanmelden voor deze speelavond is niet nodig.\nHet maakt n
+ iet uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. 
+ Er is altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidinge
+ n wil spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je du
+ s vooral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 spel
+ er.\nNet als de vorige keren zal er in ieder geval een Overlord op tafel k
+ omen rond 19:15\, wie dat nog niet gespeeld heeft of juist goed bevallen i
+ s kan hier alvast rekening mee houden.\nOok zal er geoefend kunnen worden 
+ met een aantal regels die we ook gaan gebruiken voor de Dutch Open 2020.\n
+ Route informatie:\nAls je op het adres (Von Kropfplein 1\, Klundert) aange
+ komen bent moet je aan de achterkant van de kerk zijn\, hier bevindt zich 
+ de zaal waar we spelen. Achter de kerk is ook ruimschoots (gratis) parkeer
+ gelegenheid.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20191102T190000
+DTEND;TZID=Europe/Amsterdam:20191102T234500
+GEO:+51.664356;+4.532883
+LOCATION:vonkropfplein 1 Klundert @ 4791 Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:M44Brigade speelavond
+URL:http://m44brigade.nl/activiteit/m44brigade-speelavond-24/
+X-COST-TYPE:external
+X-WP-IMAGES-URL:thumbnail\;http://m44brigade.nl/wp-content/uploads/2015/11/
+ m44-speelavond-transparant-300x246.png\;300\;246\,medium\;http://m44brigad
+ e.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300x246.png\;30
+ 0\;246\,large\;http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelav
+ ond-transparant-300x246.png\;300\;246\,full\;http://m44brigade.nl/wp-conte
+ nt/uploads/2015/11/m44-speelavond-transparant-300x246.png\;300\;246
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p><a href='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant.png
+ '><img loading='lazy' class='alignnone size-medium wp-image-525' src='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300
+ x246.png' alt='m44 speelavond transparant' width='300' height='246' srcset
+ ='http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transpara
+ nt-300x246.png 300w\, http://m44brigade.nl/wp-content/uploads/2015/11/m44-
+ speelavond-transparant-1024x841.png 1024w\, http://m44brigade.nl/wp-conten
+ t/uploads/2015/11/m44-speelavond-transparant.png 1600w' sizes='(max-width:
+  300px) 100vw\, 300px' /></a></p>\n<p>Op <strong>zaterdagavond 2 november 
+ </strong>organiseert M44Brigade weer een<br />\n<span style='font-size: 0.
+ 95em\;'>Memoir’44 speelavond.</span></p>\n<p>Vanaf 19:00 kan er memoir’44 
+ gespeeld worden op elk front en in elk formaat.<br />\nOm de kosten te dek
+ ken vragen wij een bijdrage van € 2\,-\,<br />\ndrinken en versnaperingen 
+ zijn te verkrijgen voor zeer schappelijke prijzen.<br />\nAanmelden voor d
+ eze speelavond is niet nodig.</p>\n<p>Het maakt niet uit of je nu nieuw\, 
+ beginner of gevorderd bent als Memoir’44 speler. Er is altijd iemand die e
+ nthousiast het spel uitlegt\, nieuwe uitbreidingen wil spelen\, of op geli
+ jk niveau de uitdaging met je aangaat. Laat je dus vooral niet tegenhouden
+  door (gebrek aan) je ervaring als Memoir’44 speler.<br />\nNet als de vor
+ ige keren zal er in ieder geval een Overlord op tafel komen rond 19:15\, w
+ ie dat nog niet gespeeld heeft of juist goed bevallen is kan hier alvast r
+ ekening mee houden.</p>\n<p>Ook zal er geoefend kunnen worden met een aant
+ al regels die we ook gaan gebruiken voor de Dutch Open 2020.</p>\n<p>Route
+  informatie:<br />\nAls je op het adres (Von Kropfplein 1\, Klundert) aang
+ ekomen bent moet je aan de achterkant van de kerk zijn\, hier bevindt zich
+  de zaal waar we spelen. Achter de kerk is ook ruimschoots (gratis) parkee
+ rgelegenheid.</p>\n<p>Tot dan!</p>\n</BODY></HTML>
+X-COST:2 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4277@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 demonstraties
+CONTACT:
+DESCRIPTION:Het Spellenspektakel verhuist!\nEn wij verhuizen mee. 🙂\n \nKom
+  dus ook op 9 en/of 10 november naar de Jaarbeurs in Utrecht en zoek ons e
+ ven op om kennis te maken met Memoir’44 een babbeltje met ons te maken of 
+ een potje te spelen.
+DTSTART;TZID=Europe/Amsterdam:20191109T100000
+DTEND;TZID=Europe/Amsterdam:20191109T180000
+LOCATION:Jaarbeurs Utrecht @ Jaarbeursplein 3521 AL Utrecht
+SEQUENCE:0
+SUMMARY:Spellenspektakel
+URL:http://m44brigade.nl/activiteit/spellenspektakel/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Het Spellensp
+ ektakel verhuist!</p>\n<p>En wij verhuizen mee. 🙂</p>\n<p> </p>\n<p>Kom du
+ s ook op 9 en/of 10 november naar de Jaarbeurs in Utrecht en zoek ons even
+  op om kennis te maken met Memoir’44 een babbeltje met ons te maken of een
+  potje te spelen.</p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4282@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 demonstraties
+CONTACT:
+DESCRIPTION:Het Spellenspektakel verhuist!\nEn wij verhuizen mee. 🙂\n \nKom
+  dus ook op 9 en/of 10 november naar de Jaarbeurs in Utrecht en zoek ons e
+ ven op om kennis te maken met Memoir’44 een babbeltje met ons te maken of 
+ een potje te spelen.
+DTSTART;TZID=Europe/Amsterdam:20191110T100000
+DTEND;TZID=Europe/Amsterdam:20191110T180000
+LOCATION:Jaarbeurs Utrecht @ Jaarbeursplein 3521 AL Utrecht
+SEQUENCE:0
+SUMMARY:Spellenspektakel
+URL:http://m44brigade.nl/activiteit/spellenspektakel-2/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Het Spellensp
+ ektakel verhuist!</p>\n<p>En wij verhuizen mee. 🙂</p>\n<p> </p>\n<p>Kom du
+ s ook op 9 en/of 10 november naar de Jaarbeurs in Utrecht en zoek ons even
+  op om kennis te maken met Memoir’44 een babbeltje met ons te maken of een
+  potje te spelen.</p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4595@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Speeldagen
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION:Op zaterdagavond 4 januari organiseert M44Brigade weer een\nMem
+ oir’44 speelavond.\nVanaf 19:00 kan er Memoir’44 gespeeld worden op elk fr
+ ont en in elk formaat.\nOm de kosten te dekken vragen wij een bijdrage van
+  € 2\,-\,\ndrinken en versnaperingen zijn te verkrijgen voor zeer schappel
+ ijke prijzen.\nAanmelden voor deze speelavond is niet nodig.\nHet maakt ni
+ et uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. E
+ r is altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidingen
+  wil spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je dus
+  vooral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 spele
+ r.\nNet als de vorige keren zal er in ieder geval een Overlord op tafel ko
+ men rond 19:15\, wie dat nog niet gespeeld heeft of juist goed bevallen is
+  kan hier alvast rekening mee houden.\nOok zal er geoefend kunnen worden m
+ et een aantal regels die we ook gaan gebruiken voor de Dutch Open 2020.\nR
+ oute informatie:\nAls je op het adres (Von Kropfplein 1\, Klundert) aangek
+ omen bent moet je aan de achterkant van de kerk zijn\, hier bevindt zich d
+ e zaal waar we spelen. Achter de kerk is ook ruimschoots (gratis) parkeerg
+ elegenheid.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20200104T190000
+DTEND;TZID=Europe/Amsterdam:20200104T234500
+GEO:+51.664356;+4.532883
+LOCATION:vonkropfplein 1 Klundert @ 4791 Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:M44Brigade speelavond
+URL:http://m44brigade.nl/activiteit/m44brigade-speelavond-25/
+X-COST-TYPE:external
+X-WP-IMAGES-URL:thumbnail\;http://m44brigade.nl/wp-content/uploads/2015/11/
+ m44-speelavond-transparant-300x246.png\;300\;246\,medium\;http://m44brigad
+ e.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300x246.png\;30
+ 0\;246\,large\;http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelav
+ ond-transparant-300x246.png\;300\;246\,full\;http://m44brigade.nl/wp-conte
+ nt/uploads/2015/11/m44-speelavond-transparant-300x246.png\;300\;246
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p><a href='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant.png
+ '><img loading='lazy' class='alignnone size-medium wp-image-525' src='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300
+ x246.png' alt='m44 speelavond transparant' width='300' height='246' srcset
+ ='http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transpara
+ nt-300x246.png 300w\, http://m44brigade.nl/wp-content/uploads/2015/11/m44-
+ speelavond-transparant-1024x841.png 1024w\, http://m44brigade.nl/wp-conten
+ t/uploads/2015/11/m44-speelavond-transparant.png 1600w' sizes='(max-width:
+  300px) 100vw\, 300px' /></a></p>\n<p>Op <strong>zaterdagavond 4 januari <
+ /strong>organiseert M44Brigade weer een<br />\n<span style='font-size: 0.9
+ 5em\;'>Memoir’44 speelavond.</span></p>\n<p>Vanaf 19:00 kan er Memoir’44 g
+ espeeld worden op elk front en in elk formaat.<br />\nOm de kosten te dekk
+ en vragen wij een bijdrage van € 2\,-\,<br />\ndrinken en versnaperingen z
+ ijn te verkrijgen voor zeer schappelijke prijzen.<br />\nAanmelden voor de
+ ze speelavond is niet nodig.</p>\n<p>Het maakt niet uit of je nu nieuw\, b
+ eginner of gevorderd bent als Memoir’44 speler. Er is altijd iemand die en
+ thousiast het spel uitlegt\, nieuwe uitbreidingen wil spelen\, of op gelij
+ k niveau de uitdaging met je aangaat. Laat je dus vooral niet tegenhouden 
+ door (gebrek aan) je ervaring als Memoir’44 speler.<br />\nNet als de vori
+ ge keren zal er in ieder geval een Overlord op tafel komen rond 19:15\, wi
+ e dat nog niet gespeeld heeft of juist goed bevallen is kan hier alvast re
+ kening mee houden.</p>\n<p>Ook zal er geoefend kunnen worden met een aanta
+ l regels die we ook gaan gebruiken voor de Dutch Open 2020.</p>\n<p>Route 
+ informatie:<br />\nAls je op het adres (Von Kropfplein 1\, Klundert) aange
+ komen bent moet je aan de achterkant van de kerk zijn\, hier bevindt zich 
+ de zaal waar we spelen. Achter de kerk is ook ruimschoots (gratis) parkeer
+ gelegenheid.</p>\n<p>Tot dan!</p>\n</BODY></HTML>
+X-COST:2 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4276@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Op de Ducosim beurs kan je naast allerhande andere bordspellen 
+ ook weer langs komen voor een potje Memoir’44. We leggen het spel graag ui
+ t aan beginnende spelers.\nMocht je al bekend zijn met het spel dan kunnen
+  we ook de laatste nieuwe uitbreiding New Flight Plan op tafel leggen. Of 
+ iets anders als je daar meer zin in hebt. En misschien zit er wel een potj
+ e in tegen een van onze ervaren demo-ers. 🙂
+DTSTART;TZID=Europe/Amsterdam:20200118T100000
+DTEND;TZID=Europe/Amsterdam:20200118T173000
+LOCATION:Theater de Flint\, Amesfoort
+SEQUENCE:0
+SUMMARY:Demo @ Ducosim
+URL:http://m44brigade.nl/activiteit/demo-ducosim-4/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Op de Ducosim
+  beurs kan je naast allerhande andere bordspellen ook weer langs komen voo
+ r een potje Memoir’44. We leggen het spel graag uit aan beginnende spelers
+ .</p>\n<p>Mocht je al bekend zijn met het spel dan kunnen we ook de laatst
+ e nieuwe uitbreiding New Flight Plan op tafel leggen. Of iets anders als j
+ e daar meer zin in hebt. En misschien zit er wel een potje in tegen een va
+ n onze ervaren demo-ers. 🙂</p>\n</BODY></HTML>
+X-COST:€7\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4280@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Nederland Toernooien
+CONTACT:
+DESCRIPTION:Op 15 februari 2020 is het eindelijk weer zo ver\, we gaan weer
+  een Memoir’44 Dutch Open spelen!\n \nWe trekken dit jaar naar de Pacific.
+  Maar waar precies houden we nog even geheim. Het belooft weer een heel ge
+ zellig weekend te worden voor deelnemers van alle sterktes. Houd onze pagi
+ na in de gaten voor de inschrijving\, die zal september/oktober wel online
+  komen.\n \nNu al wat praktische informatie:\nWe spelen in: De Niervaert M
+ olenvliet 7\, 4791 GB Klundert\n \nOp zaterdag beginnen we om 10u00 en zij
+ n ongeveer om 18u00 klaar.\nMaar dan kan je natuurlijk weer deelnemen aan 
+ het overheerlijke buffet en een gezellig avondprogramma.\nOp zondag beginn
+ en we om 09u30 en zijn we om plusminus 17u30 klaar.
+DTSTART;TZID=Europe/Amsterdam:20200216T100000
+DTEND;TZID=Europe/Amsterdam:20200216T170000
+SEQUENCE:0
+SUMMARY:Memoir’44 Dutch Open 2020
+URL:http://m44brigade.nl/activiteit/meoir44-dutch-open-2020/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Op 15 februar
+ i 2020 is het eindelijk weer zo ver\, we gaan weer een Memoir’44 Dutch Ope
+ n spelen!</p>\n<p> </p>\n<p>We trekken dit jaar naar de Pacific. Maar waar
+  precies houden we nog even geheim. Het belooft weer een heel gezellig wee
+ kend te worden voor deelnemers van alle sterktes. Houd onze pagina in de g
+ aten voor de inschrijving\, die zal september/oktober wel online komen.</p
+ >\n<p> </p>\n<p>Nu al wat praktische informatie:</p>\n<p>We spelen in: <sp
+ an style='font-size: 0.95em\;'>De Niervaert Molenvliet 7\, 4791 GB Klunder
+ t</span></p>\n<p> </p>\n<p>Op zaterdag beginnen we om 10u00 en zijn ongeve
+ er om 18u00 klaar.</p>\n<p>Maar dan kan je natuurlijk weer deelnemen aan h
+ et overheerlijke buffet en een gezellig avondprogramma.</p>\n<p>Op zondag 
+ beginnen we om 09u30 en zijn we om plusminus 17u30 klaar.</p>\n</BODY></HT
+ ML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5049@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Speeldagen
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION:Op zaterdagavond 7 maart organiseert M44Brigade weer een\nMemoi
+ r’44 speelavond.\nVanaf 19:00 kan er Memoir’44 gespeeld worden op elk fron
+ t en in elk formaat.\nOm de kosten te dekken vragen wij een bijdrage van €
+  2\,-\,\ndrinken en versnaperingen zijn te verkrijgen voor zeer schappelij
+ ke prijzen.\nAanmelden voor deze speelavond is niet nodig.\nHet maakt niet
+  uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. Er 
+ is altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidingen w
+ il spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je dus v
+ ooral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 speler.
+ \nNet als de vorige keren zal er in ieder geval een Overlord op tafel kome
+ n rond 19:45\, wie dat nog niet gespeeld heeft of juist goed bevallen is k
+ an hier alvast rekening mee houden.\nOok zal er gespeeld worden met de sce
+ nario’s van de Dutch Open. Lukt het nu weer om te winnen of heb je misschi
+ en nog wat tips nodig?\nRoute informatie:\nAls je op het adres (Von Kropfp
+ lein 1\, Klundert) aangekomen bent moet je aan de achterkant van de kerk z
+ ijn\, hier bevindt zich de zaal waar we spelen. Achter de kerk is ook ruim
+ schoots (gratis) parkeergelegenheid.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20200307T190000
+DTEND;TZID=Europe/Amsterdam:20200307T234500
+GEO:+51.664356;+4.532883
+LOCATION:vonkropfplein 1 Klundert @ 4791 Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:M44Brigade speelavond
+URL:http://m44brigade.nl/activiteit/m44brigade-speelavond-26/
+X-COST-TYPE:external
+X-WP-IMAGES-URL:thumbnail\;http://m44brigade.nl/wp-content/uploads/2015/11/
+ m44-speelavond-transparant-300x246.png\;300\;246\,medium\;http://m44brigad
+ e.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300x246.png\;30
+ 0\;246\,large\;http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelav
+ ond-transparant-300x246.png\;300\;246\,full\;http://m44brigade.nl/wp-conte
+ nt/uploads/2015/11/m44-speelavond-transparant-300x246.png\;300\;246
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p><a href='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant.png
+ '><img loading='lazy' class='alignnone size-medium wp-image-525' src='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300
+ x246.png' alt='m44 speelavond transparant' width='300' height='246' srcset
+ ='http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transpara
+ nt-300x246.png 300w\, http://m44brigade.nl/wp-content/uploads/2015/11/m44-
+ speelavond-transparant-1024x841.png 1024w\, http://m44brigade.nl/wp-conten
+ t/uploads/2015/11/m44-speelavond-transparant.png 1600w' sizes='(max-width:
+  300px) 100vw\, 300px' /></a></p>\n<p>Op <strong>zaterdagavond 7 maart </s
+ trong>organiseert M44Brigade weer een<br />\n<span style='font-size: 0.95e
+ m\;'>Memoir’44 speelavond.</span></p>\n<p>Vanaf 19:00 kan er Memoir’44 ges
+ peeld worden op elk front en in elk formaat.<br />\nOm de kosten te dekken
+  vragen wij een bijdrage van € 2\,-\,<br />\ndrinken en versnaperingen zij
+ n te verkrijgen voor zeer schappelijke prijzen.<br />\nAanmelden voor deze
+  speelavond is niet nodig.</p>\n<p>Het maakt niet uit of je nu nieuw\, beg
+ inner of gevorderd bent als Memoir’44 speler. Er is altijd iemand die enth
+ ousiast het spel uitlegt\, nieuwe uitbreidingen wil spelen\, of op gelijk 
+ niveau de uitdaging met je aangaat. Laat je dus vooral niet tegenhouden do
+ or (gebrek aan) je ervaring als Memoir’44 speler.<br />\nNet als de vorige
+  keren zal er in ieder geval een Overlord op tafel komen rond 19:45\, wie 
+ dat nog niet gespeeld heeft of juist goed bevallen is kan hier alvast reke
+ ning mee houden.</p>\n<p>Ook zal er gespeeld worden met de scenario’s van 
+ de Dutch Open. Lukt het nu weer om te winnen of heb je misschien nog wat t
+ ips nodig?</p>\n<p>Route informatie:<br />\nAls je op het adres (Von Kropf
+ plein 1\, Klundert) aangekomen bent moet je aan de achterkant van de kerk 
+ zijn\, hier bevindt zich de zaal waar we spelen. Achter de kerk is ook rui
+ mschoots (gratis) parkeergelegenheid.</p>\n<p>Tot dan!</p>\n</BODY></HTML>
+X-COST:2 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5050@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Speeldagen
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION:De speelavond van zaterdagavond 18 april gaat door de omstandig
+ heden niet door.\nHopelijk zien we jullie op 6 juni of op een ander moment
+  weer aan de speeltafel.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20200425T190000
+DTEND;TZID=Europe/Amsterdam:20200425T234500
+GEO:+51.664356;+4.532883
+LOCATION:vonkropfplein 1 Klundert @ 4791 Klundert\, Nederland
+SEQUENCE:0
+SUMMARY:GECANCELD: M44Brigade speelavond
+URL:http://m44brigade.nl/activiteit/m44brigade-speelavond-27/
+X-COST-TYPE:external
+X-WP-IMAGES-URL:thumbnail\;http://m44brigade.nl/wp-content/uploads/2015/11/
+ m44-speelavond-transparant-300x246.png\;300\;246\,medium\;http://m44brigad
+ e.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300x246.png\;30
+ 0\;246\,large\;http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelav
+ ond-transparant-300x246.png\;300\;246\,full\;http://m44brigade.nl/wp-conte
+ nt/uploads/2015/11/m44-speelavond-transparant-300x246.png\;300\;246
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p><a href='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant.png
+ '><img loading='lazy' class='alignnone size-medium wp-image-525' src='http
+ ://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transparant-300
+ x246.png' alt='m44 speelavond transparant' width='300' height='246' srcset
+ ='http://m44brigade.nl/wp-content/uploads/2015/11/m44-speelavond-transpara
+ nt-300x246.png 300w\, http://m44brigade.nl/wp-content/uploads/2015/11/m44-
+ speelavond-transparant-1024x841.png 1024w\, http://m44brigade.nl/wp-conten
+ t/uploads/2015/11/m44-speelavond-transparant.png 1600w' sizes='(max-width:
+  300px) 100vw\, 300px' /></a></p>\n<p>De speelavond van <strong>zaterdagav
+ ond 18 april </strong>gaat door de omstandigheden niet door.<br />\nHopeli
+ jk zien we jullie op 6 juni of op een ander moment weer aan de speeltafel.
+ </p>\n<p>Tot dan!</p>\n</BODY></HTML>
+X-COST:2 Euro
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-4283@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Belgische toernooien/speeldagen
+CONTACT:
+DESCRIPTION:Als je ons zoekt op zaterdag 2 mei\, dan moet je de grens over.
+ \nWij gaan weer deelnemen aan het oergezellige toernooi van Melle in Belgi
+ ë.\n \nOnze vlaamse broeders maken er altijd een supergezellige dag van me
+ t wat denkwerk voor de scenarios natuurlijk.\n \nWil je ook een keer mee n
+ aar een buitenlands toernooi\, dan is dit een mooie “instappartje”. Niet t
+ e ver weg en maar één dag. 🙂\n \nNeem contact met ons op om te carpoolen\,
+  voor te bereiden en tips te krijgen.
+DTSTART;TZID=Europe/Amsterdam:20200502T091500
+DTEND;TZID=Europe/Amsterdam:20200502T180000
+LOCATION:Gemeentelijk Ontmoetingscentrum @ Geraardbergse- steenweg 94 9090 
+ Melle\, België
+SEQUENCE:0
+SUMMARY:het Memoir’44 Toernooi van Melle
+URL:http://m44brigade.nl/activiteit/memoir44-toernooi-melle/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Als je ons zo
+ ekt op zaterdag 2 mei\, dan moet je de grens over.</p>\n<p>Wij gaan weer d
+ eelnemen aan het oergezellige toernooi van Melle in België.</p>\n<p> </p>
+ \n<p>Onze vlaamse broeders maken er altijd een supergezellige dag van met 
+ wat denkwerk voor de scenarios natuurlijk.</p>\n<p> </p>\n<p>Wil je ook ee
+ n keer mee naar een buitenlands toernooi\, dan is dit een mooie “instappar
+ tje”. Niet te ver weg en maar één dag. 🙂</p>\n<p> </p>\n<p>Neem contact me
+ t ons op om te carpoolen\, voor te bereiden en tips te krijgen.</p>\n</BOD
+ Y></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-6154@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Dankzij de versoepeling van de Corona maatregelen organiseren w
+ ij opnieuw een Dday-landings speeldag. Uiteraard in aangepaste vorm om voo
+ r elkaars veiligheid te zorgen.\nMeer informatie en de mogelijkheid tot aa
+ nmelden vindt je hier:\nhttp://m44brigade.nl/aanmelding-ddaylandings-18-7-
+ 2020/
+DTSTART;TZID=Europe/Amsterdam:20200718T083000
+DTEND;TZID=Europe/Amsterdam:20200718T170000
+LOCATION:Niervaert (Klundert) @ Molenvliet 7\, 4791 GB Klundert
+SEQUENCE:0
+SUMMARY:Speeldag Dday-landings
+URL:http://m44brigade.nl/activiteit/speeldag-dday-landings/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Dankzij de ve
+ rsoepeling van de Corona maatregelen organiseren wij opnieuw een Dday-land
+ ings speeldag. Uiteraard in aangepaste vorm om voor elkaars veiligheid te 
+ zorgen.<br />\nMeer informatie en de mogelijkheid tot aanmelden vindt je h
+ ier:</p>\n<p><a href='http://m44brigade.nl/aanmelding-ddaylandings-18-7-20
+ 20/'>http://m44brigade.nl/aanmelding-ddaylandings-18-7-2020/</a></p>\n</BO
+ DY></HTML>
+X-COST:10\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-5289@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Nederland Toernooien
+CONTACT:
+DESCRIPTION:Op 27 en 28 februari 2021 is het eindelijk weer zo ver\, we gaa
+ n weer een Memoir’44 Dutch Open spelen!\nHelaas is dit event geannuleerd v
+ anwege de Corona maatregelen.\n \n 
+DTSTART;TZID=Europe/Amsterdam:20210227T100000
+DTEND;TZID=Europe/Amsterdam:20210228T170000
+LOCATION:Nederland
+SEQUENCE:0
+SUMMARY:Memoir’44 Dutch Open 2021 – verplaatst naar 23/24 oktober
+URL:http://m44brigade.nl/activiteit/memoir44-dutch-open-2021/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Op 27 en 28 f
+ ebruari 2021 is het eindelijk weer zo ver\, we gaan weer een Memoir’44 Dut
+ ch Open spelen!</p>\n<p>Helaas is dit event geannuleerd vanwege de Corona 
+ maatregelen.</p>\n<p> </p>\n<p> </p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-7705@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:DDay-landings\, Operation Neptune\, gaat ook dit jaar weer door
+ ! Sinds 2014 (het jaar dat de expansie uitkwam) hebben we nog geen jaar ov
+ ergeslagen en met de huidige versoepelingen kunnen we\, in een aangepaste 
+ vorm\, ook in 2021 weer spelen. En wel op 3 juli 2021.\nNog niet schouder 
+ aan schouder\, maar net zoals vorig jaar op gepaste afstand. Omdat we toch
+  24 spelers kwijt willen kunnen spelen we weer in de grote zaal van de Nie
+ rvaert.\nJe kan intekenen op de ochtend of middagsessie en als je wil kan 
+ je ’s avonds ook nog een potje spelen 🙂\nOpgeven kan via deze link:\nhttp:
+ //m44brigade.nl/aanmelding-ddaylandings-3-7-2021/\n \n 
+DTSTART;TZID=Europe/Amsterdam:20210703T083000
+DTEND;TZID=Europe/Amsterdam:20210703T220000
+LOCATION:Niervaert (Klundert) @ Molenvliet 7\, 4791 GB Klundert
+SEQUENCE:0
+SUMMARY:Speeldag Dday-landings
+URL:http://m44brigade.nl/activiteit/speeldag-dday-landings-2/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>DDay-landings
+ \, Operation Neptune\, gaat ook dit jaar weer door! Sinds 2014 (het jaar d
+ at de expansie uitkwam) hebben we nog geen jaar overgeslagen en met de hui
+ dige versoepelingen kunnen we\, in een aangepaste vorm\, ook in 2021 weer 
+ spelen. En wel op 3 juli 2021.</p>\n<p>Nog niet schouder aan schouder\, ma
+ ar net zoals vorig jaar op gepaste afstand. Omdat we toch 24 spelers kwijt
+  willen kunnen spelen we weer in de grote zaal van de Niervaert.</p>\n<p>J
+ e kan intekenen op de ochtend of middagsessie en als je wil kan je ’s avon
+ ds ook nog een potje spelen 🙂</p>\n<p>Opgeven kan via deze link:</p>\n<p><
+ a href='http://m44brigade.nl/aanmelding-ddaylandings-3-7-2021/'>http://m44
+ brigade.nl/aanmelding-ddaylandings-</a><a href='http://m44brigade.nl/aanme
+ lding-ddaylandings-3-7-2021/'>3-7-2021/</a></p>\n<p> </p>\n<p> </p>\n</BOD
+ Y></HTML>
+X-COST:12\,50
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8587@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 demonstraties
+CONTACT:
+DESCRIPTION:Kom  op 6 en/of 7 november naar de Jaarbeurs in Utrecht en zoek
+  ons even op om kennis te maken met Memoir’44 een babbeltje met ons te mak
+ en of een potje te spelen.
+DTSTART;TZID=Europe/Amsterdam:20211106T100000
+DTEND;TZID=Europe/Amsterdam:20211107T180000
+LOCATION:Jaarbeurs Utrecht @ Jaarbeursplein 3521 AL Utrecht
+SEQUENCE:0
+SUMMARY:Spellenspektakel
+URL:http://m44brigade.nl/activiteit/spellenspektakel-3/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Kom  op 6 en/
+ of 7 november naar de Jaarbeurs in Utrecht en zoek ons even op om kennis t
+ e maken met Memoir’44 een babbeltje met ons te maken of een potje te spele
+ n.</p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8585@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Speeldagen
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION: \nDit jaar Organiseren we speeldagen bij Speel in Bleiswijk.\n
+ Door de huidige Corona maatregelen kunnen we spelen tot 17:00\, we beginne
+ n daardoor wel eerder dan eerst gepland\, namelijk om 10:00. \nAangezien d
+ e winkel ook een horeca gelegenheid heeft\, gelden ook de maatregelen daar
+ voor. Dit betekent dat je met elkaar aan tafel mag zitten\, maar je wel ee
+ n geldige QR code moet laten zien bij binnenkomst. \nHet maakt niet uit of
+  je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. Er is alti
+ jd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidingen wil spel
+ en\, of op gelijk niveau de uitdaging met je aangaat. Laat je dus vooral n
+ iet tegenhouden door (gebrek aan) je ervaring als Memoir’44 speler.\nNet a
+ ls de vorige keren zal er in ieder geval een Overlord op tafel komen. Wie 
+ dat nog niet gespeeld heeft of juist goed bevallen is kan hier alvast reke
+ ning mee houden.\nOok zal er gespeeld worden met de scenario’s van de Dutc
+ h Open. Lukt het nu weer om te winnen of heb je misschien nog wat tips nod
+ ig?\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20211211T100000
+DTEND;TZID=Europe/Amsterdam:20211211T170000
+GEO:+51.664356;+4.532883
+LOCATION:Speel! (Bleiswijk) @ Dorpsstraat 7\, 2665 BG Bleiswijk
+SEQUENCE:0
+SUMMARY:M44Brigade speeldag
+URL:http://m44brigade.nl/activiteit/m44brigade-speeldag/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p> </p>\n<p>Dit
+  jaar Organiseren we speeldagen bij Speel in Bleiswijk.</p>\n<p><em>Door d
+ e huidige Corona maatregelen kunnen we spelen tot 17:00\, we beginnen daar
+ door wel eerder dan eerst gepland\, namelijk om 10:00. </em><br />\n<em>Aa
+ ngezien de winkel ook een horeca gelegenheid heeft\, gelden ook de maatreg
+ elen daarvoor. Dit betekent dat je met elkaar aan tafel mag zitten\, maar 
+ je wel een geldige QR code moet laten zien bij binnenkomst. </em></p>\n<p>
+ Het maakt niet uit of je nu nieuw\, beginner of gevorderd bent als Memoir’
+ 44 speler. Er is altijd iemand die enthousiast het spel uitlegt\, nieuwe u
+ itbreidingen wil spelen\, of op gelijk niveau de uitdaging met je aangaat.
+  Laat je dus vooral niet tegenhouden door (gebrek aan) je ervaring als Mem
+ oir’44 speler.<br />\nNet als de vorige keren zal er in ieder geval een Ov
+ erlord op tafel komen. Wie dat nog niet gespeeld heeft of juist goed beval
+ len is kan hier alvast rekening mee houden.</p>\n<p>Ook zal er gespeeld wo
+ rden met de scenario’s van de Dutch Open. Lukt het nu weer om te winnen of
+  heb je misschien nog wat tips nodig?</p>\n<p>Tot dan!</p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8588@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION: \nDoor de huidige coronamaatregelen gaat deze dag helaas niet 
+ door……\n \nOp de Ducosim beurs kan je naast allerhande andere bordspellen 
+ ook weer langs komen voor een potje Memoir’44. We leggen het spel graag ui
+ t aan beginnende spelers.\nMocht je al bekend zijn met het spel dan kunnen
+  we ook de scenario’s van de laatste Dutch open spelen. Of iets anders als
+  je daar meer zin in hebt. En misschien zit er wel een potje in tegen een 
+ van onze ervaren demo-ers. 🙂
+DTSTART;TZID=Europe/Amsterdam:20220122T100000
+DTEND;TZID=Europe/Amsterdam:20220122T173000
+LOCATION:Theater de Flint\, Amesfoort
+SEQUENCE:0
+SUMMARY:GECANCELD! Demo @ Ducosim
+URL:http://m44brigade.nl/activiteit/demo-ducosim-5/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p> </p>\n<p>Doo
+ r de huidige coronamaatregelen gaat deze dag helaas niet door……</p>\n<p> <
+ /p>\n<p>Op de Ducosim beurs kan je naast allerhande andere bordspellen ook
+  weer langs komen voor een potje Memoir’44. We leggen het spel graag uit a
+ an beginnende spelers.</p>\n<p>Mocht je al bekend zijn met het spel dan ku
+ nnen we ook de scenario’s van de laatste Dutch open spelen. Of iets anders
+  als je daar meer zin in hebt. En misschien zit er wel een potje in tegen 
+ een van onze ervaren demo-ers. 🙂</p>\n</BODY></HTML>
+X-COST:€7\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8586@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES;LANGUAGE=nl:Memoir 44 Brigade Speeldagen
+CONTACT:M44Brigade\; info@m44brigade.nl
+DESCRIPTION: \nDit jaar Organiseren we speeldagen bij Speel in Bleiswijk.\n
+ Het maakt niet uit of je nu nieuw\, beginner of gevorderd bent als Memoir’
+ 44 speler. Er is altijd iemand die enthousiast het spel uitlegt\, nieuwe u
+ itbreidingen wil spelen\, of op gelijk niveau de uitdaging met je aangaat.
+  Laat je dus vooral niet tegenhouden door (gebrek aan) je ervaring als Mem
+ oir’44 speler.\nNet als de vorige keren zal er in ieder geval een Overlord
+  op tafel komen. Wie dat nog niet gespeeld heeft of juist goed bevallen is
+  kan hier alvast rekening mee houden.\nTot dan!
+DTSTART;TZID=Europe/Amsterdam:20220212T100000
+DTEND;TZID=Europe/Amsterdam:20220212T220000
+GEO:+51.664356;+4.532883
+LOCATION:Speel! (Bleiswijk) @ Dorpsstraat 7\, 2665 BG Bleiswijk
+SEQUENCE:0
+SUMMARY:M44Brigade speeldag
+URL:http://m44brigade.nl/activiteit/m44brigade-speeldag-2/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p> </p>\n<p>Dit
+  jaar Organiseren we speeldagen bij Speel in Bleiswijk.<br />\nHet maakt n
+ iet uit of je nu nieuw\, beginner of gevorderd bent als Memoir’44 speler. 
+ Er is altijd iemand die enthousiast het spel uitlegt\, nieuwe uitbreidinge
+ n wil spelen\, of op gelijk niveau de uitdaging met je aangaat. Laat je du
+ s vooral niet tegenhouden door (gebrek aan) je ervaring als Memoir’44 spel
+ er.<br />\nNet als de vorige keren zal er in ieder geval een Overlord op t
+ afel komen. Wie dat nog niet gespeeld heeft of juist goed bevallen is kan 
+ hier alvast rekening mee houden.</p>\n<p>Tot dan!</p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8589@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Ook dit jaar zijn we weer te vinden op zuiderspel.\nKom langs v
+ oor een gezellig praatje tijdens een potje memoir of leer het spel van onz
+ e demoërs
+DTSTART;TZID=Europe/Amsterdam:20220423T100000
+DTEND;TZID=Europe/Amsterdam:20220423T180000
+LOCATION:Zuiderspel (Veldhoven) @ Locht 117 5504 RM Veldhoven
+RDATE;TZID=Europe/Amsterdam:20220424T100000
+SEQUENCE:0
+SUMMARY:Demo @ Zuiderspel
+URL:http://m44brigade.nl/activiteit/8589/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Ook dit jaar 
+ zijn we weer te vinden op zuiderspel.<br />\nKom langs voor een gezellig p
+ raatje tijdens een potje memoir of leer het spel van onze demoërs</p>\n</B
+ ODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8591@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Op de Ducosim beurs kan je naast allerhande andere bordspellen 
+ ook weer langs komen voor een potje Memoir’44. We leggen het spel graag ui
+ t aan beginnende spelers.\nMocht je al bekend zijn met het spel dan kunnen
+  we ook de scenario’s van de laatste Dutch open spelen. Of iets anders als
+  je daar meer zin in hebt. En misschien zit er wel een potje in tegen een 
+ van onze ervaren demo-ers. 🙂
+DTSTART;TZID=Europe/Amsterdam:20220514T100000
+DTEND;TZID=Europe/Amsterdam:20220514T173000
+LOCATION:Theater de Flint\, Amesfoort
+SEQUENCE:0
+SUMMARY:Demo @ Ducosim
+URL:http://m44brigade.nl/activiteit/demo-ducosim-6/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Op de Ducosim
+  beurs kan je naast allerhande andere bordspellen ook weer langs komen voo
+ r een potje Memoir’44. We leggen het spel graag uit aan beginnende spelers
+ .</p>\n<p>Mocht je al bekend zijn met het spel dan kunnen we ook de scenar
+ io’s van de laatste Dutch open spelen. Of iets anders als je daar meer zin
+  in hebt. En misschien zit er wel een potje in tegen een van onze ervaren 
+ demo-ers. 🙂</p>\n</BODY></HTML>
+X-COST:€7\,-
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8583@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:DDay-landings\, Operation Neptune\, gaat ook dit jaar weer door
+ ! Sinds 2014 (het jaar dat de expansie uitkwam) hebben we nog geen jaar ov
+ ergeslagen.\nDit jaar bestormen we de stranden vanuit spellenwinkel Speel!
+  in Bleiswijk.\nInschrijven kan helaas nog niet\, maar zet de datum alvast
+  in je agenda.\n 
+DTSTART;TZID=Europe/Amsterdam:20220604T083000
+DTEND;TZID=Europe/Amsterdam:20220604T220000
+LOCATION:Speel! (Bleiswijk) @ Dorpsstraat 7\, 2665 BG Bleiswijk
+SEQUENCE:0
+SUMMARY:Speeldag Dday-landings
+URL:http://m44brigade.nl/activiteit/speeldag-dday-landings-3/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>DDay-landings
+ \, Operation Neptune\, gaat ook dit jaar weer door! Sinds 2014 (het jaar d
+ at de expansie uitkwam) hebben we nog geen jaar overgeslagen.</p>\n<p>Dit 
+ jaar bestormen we de stranden vanuit spellenwinkel Speel! in Bleiswijk.<br
+  />\nInschrijven kan helaas nog niet\, maar zet de datum alvast in je agen
+ da.</p>\n<p> </p>\n</BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-8592@m44brigade.nl
+DTSTAMP:20220408T010605Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Op de Ducosim beurs kan je naast allerhande andere bordspellen 
+ ook weer langs komen voor een potje Memoir’44. We leggen het spel graag ui
+ t aan beginnende spelers.\nMocht je al bekend zijn met het spel dan kunnen
+  we ook de scenario’s van de laatste Dutch open spelen. Of iets anders als
+  je daar meer zin in hebt. En misschien zit er wel een potje in tegen een 
+ van onze ervaren demo-ers. 🙂
+DTSTART;TZID=Europe/Amsterdam:20220917T100000
+DTEND;TZID=Europe/Amsterdam:20220917T173000
+LOCATION:Theater de Flint\, Amesfoort
+SEQUENCE:0
+SUMMARY:Demo @ Ducosim
+URL:http://m44brigade.nl/activiteit/demo-ducosim-7/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Op de Ducosim
+  beurs kan je naast allerhande andere bordspellen ook weer langs komen voo
+ r een potje Memoir’44. We leggen het spel graag uit aan beginnende spelers
+ .</p>\n<p>Mocht je al bekend zijn met het spel dan kunnen we ook de scenar
+ io’s van de laatste Dutch open spelen. Of iets anders als je daar meer zin
+  in hebt. En misschien zit er wel een potje in tegen een van onze ervaren 
+ demo-ers. 🙂</p>\n</BODY></HTML>
+X-COST:€7\,-
+END:VEVENT
+END:VCALENDAR
