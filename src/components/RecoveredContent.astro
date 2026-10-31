@@ -1,0 +1,48 @@
+---
+interface Props {
+	page: {
+		slug: string;
+		title: string;
+		html: string;
+	};
+}
+
+const { page } = Astro.props;
+const photos = [
+	'IMG_20180418_193026.jpg',
+	'IMG_20180418_193150.jpg',
+	'IMG_20180418_194052-1.jpg',
+	'IMG_20180419_200204.jpg',
+	'IMG_20180424_211111.jpg',
+];
+---
+
+{page.slug === 'contact' ? (
+	<div class="recovery-notice">
+		<p>
+			De oude contactpagina bevatte een formulier, maar de download bevat niet de
+			verzendservice of een contactadres. Dit formulier kan daarom niet worden hersteld.
+		</p>
+	</div>
+) : (
+	<div class="recovered-content" set:html={page.html} />
+)}
+
+{page.slug === 'fotos' && (
+	<section class="saved-photos" aria-labelledby="saved-photos-title">
+		<h2 id="saved-photos-title">Foto’s uit de download</h2>
+		<p>Deze vijf foto’s waren als bestanden bij de websitekopie opgenomen.</p>
+		<div class="photo-grid">
+			{photos.map((photo, index) => (
+				<a href={`/images/${photo}`}>
+					<img
+						src={`/images/${photo}`}
+						alt={`Bewaarde foto ${index + 1}`}
+						loading="lazy"
+						decoding="async"
+					/>
+				</a>
+			))}
+		</div>
+	</section>
+)}
