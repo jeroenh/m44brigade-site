@@ -8,7 +8,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 Hieronder de uitslag van de Memoir 44 Dutch Open 2016.
 
-[![M44DO2016einduitslag](http://m44brigade.nl/wp-content/uploads/2016/04/M44DO2016einduitslag-456x1024.jpg)](http://m44brigade.nl/wp-content/uploads/2016/04/M44DO2016einduitslag.jpg)
+[![M44DO2016einduitslag](/wp-content/uploads/2016/04/M44DO2016einduitslag-456x1024.jpg)](/wp-content/uploads/2016/04/M44DO2016einduitslag.jpg)
 
 #### Talvisota, De Russisch-Finse Winteroorlog van 1939-1940
 
@@ -21,9 +21,9 @@ after weeks of diplomatic talks between Russia and Finland Russian troops invade
 
 Voor de Dutch Open hadden we twee aangepaste kaartjes:
 
-![Deep Frozen Rivers](http://m44brigade.nl/wp-content/uploads/2017/01/M44CCTerrain47aDeepFrozenRivers.png)
+![Deep Frozen Rivers](/wp-content/uploads/2017/01/M44CCTerrain47aDeepFrozenRivers.png)
 
-![http://m44brigade.nl/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png](http://m44brigade.nl/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png)
+![/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png](/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png)
 
 ### Scenario 1: Taipale River
 

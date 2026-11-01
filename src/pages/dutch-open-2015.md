@@ -8,7 +8,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 Hieronder de uitslag van de allereerste Memoir 44 Dutch Open 2015.
 
-[![M44DO2015uitslag](http://m44brigade.nl/wp-content/uploads/2015/03/M44DO2015uitslag-706x1024.jpg)](http://m44brigade.nl/wp-content/uploads/2015/03/M44DO2015uitslag.jpg)
+[![M44DO2015uitslag](/wp-content/uploads/2015/03/M44DO2015uitslag-706x1024.jpg)](/wp-content/uploads/2015/03/M44DO2015uitslag.jpg)
 
 Drie Fransen zijn er met de prijzen vandoor, dat gaan we volgend jaar beter doen Nederland!
 Kom langs op speeldagen om te trainen.
@@ -17,7 +17,7 @@ Kom langs op speeldagen om te trainen.
 
 <iframe src="https://www.youtube.com/embed/7LRcQzseHAM" width="420" height="315"></iframe>
 
-[Presentatie scenario’s / Presentation of Scenarios](http://m44brigade.nl/wp-content/uploads/2015/03/Presentatie-scenarios-definitief-2.pptx)
+[Presentatie scenario’s / Presentation of Scenarios](/wp-content/uploads/2015/03/Presentatie-scenarios-definitief-2.pptx)
 
 ### Scenario 1: Overloon forest
 
@@ -48,7 +48,7 @@ Kom langs op speeldagen om te trainen.
 
 ### Zaterdagavond: Overlord
 
-[Overlord rules scenario 1 en 2](http://m44brigade.nl/wp-content/uploads/2015/03/Overloon-Forest-Overlord1.1-1.pdf)
+[Overlord rules scenario 1 en 2](/wp-content/uploads/2015/03/Overloon-Forest-Overlord1.1-1.pdf)
 
 ### Foto’s
 

@@ -16,6 +16,6 @@ Uw bericht
 
 Captcha
 Neem deze letters/cijfers over
-![captcha](http://m44brigade.nl/wp-content/uploads/wpcf7_captcha/3345242759.png)
+![captcha](/wp-content/uploads/wpcf7_captcha/3345242759.png)
 
 Δ

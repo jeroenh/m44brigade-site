@@ -8,7 +8,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 **Hieronder de uitslag van de Memoir 44 Dutch Open 2020**
 
- [![](http://m44brigade.nl/wp-content/uploads/2020/02/2020-end-boven-.jpg)](http://m44brigade.nl/wp-content/uploads/2020/02/2020-end-boven-.jpg)[![](http://m44brigade.nl/wp-content/uploads/2020/02/2020-end-onder.jpg)](http://m44brigade.nl/wp-content/uploads/2020/02/2020-end-onder.jpg)
+ [![](/wp-content/uploads/2020/02/2020-end-boven-.jpg)](/wp-content/uploads/2020/02/2020-end-boven-.jpg)[![](/wp-content/uploads/2020/02/2020-end-onder.jpg)](/wp-content/uploads/2020/02/2020-end-onder.jpg)
 
 ### Scenario 1: X Corps Landing
 

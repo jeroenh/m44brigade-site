@@ -12,7 +12,7 @@ Bekijk hier de aftermovie:
 
 **Hieronder de uitslag van de Memoir 44 Dutch Open 2019**
 
-[![](http://m44brigade.nl/wp-content/uploads/2019/02/score-sheet.jpg)](http://m44brigade.nl/wp-content/uploads/2019/02/score-sheet.jpg)
+[![](/wp-content/uploads/2019/02/score-sheet.jpg)](/wp-content/uploads/2019/02/score-sheet.jpg)
 
 ### Scenario 1: Mechilli
 

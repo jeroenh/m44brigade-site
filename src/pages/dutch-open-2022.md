@@ -9,12 +9,12 @@ layout: ../layouts/MarkdownPageLayout.astro
 **End results of the Memoir’44 Dutch Open 2022
 De Eindscore van de Memoir’44 Dutch Open 2022**
 
-[![](http://m44brigade.nl/wp-content/uploads/2022/04/Endscore-481x1024.jpg)](http://m44brigade.nl/wp-content/uploads/2022/04/Endscore.jpg)
+[![](/wp-content/uploads/2022/04/Endscore-481x1024.jpg)](/wp-content/uploads/2022/04/Endscore.jpg)
 
 For the Memoir’44 Dutch Open 2022 we introduced a new unit, the US Dozertank:
 Voor de Memoir’44 Dutch Open 2022 was er een nieuwe eenheid, de US Dozertank:
 
-[![](http://m44brigade.nl/wp-content/uploads/2022/04/M44CCTroops101Dozertanks-BM-XXS.jpg)](http://m44brigade.nl/wp-content/uploads/2022/04/M44CCTroops101Dozertanks-BM-XXS.jpg)
+[![](/wp-content/uploads/2022/04/M44CCTroops101Dozertanks-BM-XXS.jpg)](/wp-content/uploads/2022/04/M44CCTroops101Dozertanks-BM-XXS.jpg)
 
 ### Scenarios
 

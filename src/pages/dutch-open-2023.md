@@ -9,9 +9,9 @@ layout: ../layouts/MarkdownPageLayout.astro
 **End results of the Memoir’44 Dutch Open 2023
 De Eindscore van de Memoir’44 Dutch Open 2023**
 
-[![](http://m44brigade.nl/wp-content/uploads/2023/07/Eindscore-DO2023-1-4-627x1024.png)](http://m44brigade.nl/wp-content/uploads/2023/07/Eindscore-DO2023-1-4.png)
+[![](/wp-content/uploads/2023/07/Eindscore-DO2023-1-4-627x1024.png)](/wp-content/uploads/2023/07/Eindscore-DO2023-1-4.png)
 
-[![](http://m44brigade.nl/wp-content/uploads/2023/07/Eindscore-DO2023-2-3-627x1024.png)](http://m44brigade.nl/wp-content/uploads/2023/07/Eindscore-DO2023-2-3.png)
+[![](/wp-content/uploads/2023/07/Eindscore-DO2023-2-3-627x1024.png)](/wp-content/uploads/2023/07/Eindscore-DO2023-2-3.png)
 
 **Films and links to the scenarios** :
 

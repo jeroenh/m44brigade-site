@@ -18,16 +18,16 @@ Hieronder vind u een overzicht van alle Dutch Opens:
 
 [Dutch Open 2023](https://m44brigade.nl/dutch-open-2023/)
 
-[Dutch Open 2022](http://m44brigade.nl/dutch-open-2022/)
+[Dutch Open 2022](/dutch-open-2022/)
 
-[Dutch Open 2021](http://m44brigade.nl/dutch-open-2021-2/)
+[Dutch Open 2021](/dutch-open-2021-2/)
 
-[Dutch Open 2020](http://m44brigade.nl/dutch-open-2020/)
+[Dutch Open 2020](/dutch-open-2020/)
 
-[Dutch Open 2018](http://m44brigade.nl/dutch-open-2018/)
+[Dutch Open 2018](/dutch-open-2018/)
 
-[Dutch open 2017](http://m44brigade.nl/dutch-open-2017/)
+[Dutch open 2017](/dutch-open-2017/)
 
-[Dutch Open 2016](http://m44brigade.nl/dutch-open-2016/)
+[Dutch Open 2016](/dutch-open-2016/)
 
-[Dutch Open 2015](http://m44brigade.nl/dutch-open-2015/)
+[Dutch Open 2015](/dutch-open-2015/)

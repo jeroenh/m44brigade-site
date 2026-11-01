@@ -8,11 +8,11 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 **Hieronder de uitslag van de Memoir 44 Dutch Open 2021**
 
-[![](http://m44brigade.nl/wp-content/uploads/2021/10/Eindscore21.png)](http://m44brigade.nl/wp-content/uploads/2020/02/2020-end-onder.jpg)
+[![](/wp-content/uploads/2021/10/Eindscore21.png)](/wp-content/uploads/2020/02/2020-end-onder.jpg)
 
 Om het tankgeweld een beetje te kunnen weerstaan hebben we voor dit jaar een SWA ingevoerd: de Assault Gun. Alle deelnemers kregen twee Duitse Stug III mini’s en twee Russische SU76 mini’s om deze units aan te geven.
 
-[![](http://m44brigade.nl/wp-content/uploads/2021/11/17FC8744-83AD-4F09-A07A-625FF301E9A8.jpeg)](http://m44brigade.nl/wp-content/uploads/2021/11/17FC8744-83AD-4F09-A07A-625FF301E9A8.jpeg)
+[![](/wp-content/uploads/2021/11/17FC8744-83AD-4F09-A07A-625FF301E9A8.jpeg)](/wp-content/uploads/2021/11/17FC8744-83AD-4F09-A07A-625FF301E9A8.jpeg)
 
 ### Scenario 1: Von Mansteins Castling
 

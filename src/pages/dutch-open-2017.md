@@ -10,7 +10,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 **Hieronder de uitslag van de Memoir 44 Dutch Open 2017**
 
-[![](http://m44brigade.nl/wp-content/uploads/2017/04/eindstand-dutcj-opem-2017.jpg)](http://m44brigade.nl/wp-content/uploads/2017/04/eindstand-dutcj-opem-2017.jpg)
+[![](/wp-content/uploads/2017/04/eindstand-dutcj-opem-2017.jpg)](/wp-content/uploads/2017/04/eindstand-dutcj-opem-2017.jpg)
 
 ### Scenario 1: Ladbroke
 

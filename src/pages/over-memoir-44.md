@@ -6,7 +6,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 ## Over Memoir ’44
 
-[![logo Memoir44](http://m44brigade.nl/wp-content/uploads/2013/11/logo-Memoir442-300x55.jpg)](http://m44brigade.nl/wp-content/uploads/2013/11/logo-Memoir442.jpg)
+[![logo Memoir44](/wp-content/uploads/2013/11/logo-Memoir442-300x55.jpg)](/wp-content/uploads/2013/11/logo-Memoir442.jpg)
 Memoir’44 is een leuk, eenvoudig, snel-spelend en boeiend spel. Memoir’44 is uitgegeven door Days of Wonder ter gelegenheid van de 60e verjaardag van D-Day.
 
 Memoir’44 is ontworpen om de inspanningen en opofferingen van de mannen en vrouwen van de Tweede Wereldoorlog te herdenken. Daarnaast hoopt het spel historisch besef van deze periode te vergroten. Dit door de spelers te informeren over de geschiedenis en te stimuleren zelf verder te kijken.
@@ -19,6 +19,6 @@ Het spel komt, wat ons betreft, het best tot zijn recht op een bord tegenover el
 
 Voor meer info verwijzen wij naar de site van: [Days of Wonder](http://www.daysofwonder.com/memoir44/en/)
 
-[Hier vindt u een overzicht van handige bestanden die u kunt gebruiken tijdens het spel en extra scenario’s.](http://m44brigade.nl/documenten/ "documenten")
+[Hier vindt u een overzicht van handige bestanden die u kunt gebruiken tijdens het spel en extra scenario’s.](/documenten/ "documenten")
 
-![Print](http://m44brigade.nl/wp-content/uploads/2013/11/Days-of-Wonder-Company-Logo-300x153.jpg)
+![Print](/wp-content/uploads/2013/11/Days-of-Wonder-Company-Logo-300x153.jpg)

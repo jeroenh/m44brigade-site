@@ -195,7 +195,7 @@ feb 20 – feb 21 hele dag
 
 De datum staat, verdere info volgt snel……..
 
-[![](http://m44brigade.nl/wp-content/uploads/2026/02/Afbeelding1-300x202.jpg)](http://m44brigade.nl/wp-content/uploads/2026/02/Afbeelding1.jpg)
+[![](/wp-content/uploads/2026/02/Afbeelding1-300x202.jpg)](/wp-content/uploads/2026/02/Afbeelding1.jpg)
 
 [Lees verder](https://m44brigade.nl/activiteit/dutch-open-2027/?instance_id=356)
 
@@ -203,9 +203,9 @@ De datum staat, verdere info volgt snel……..
 
 Abonneer
 
--   [Voeg toe aan Timely Kalender](http://m44brigade.nl/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events "Kopieer deze URL voor je eigen Timely kalender of klik om aan je RTF kalender toe te voegen.")
+-   [Voeg toe aan Timely Kalender](/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events "Kopieer deze URL voor je eigen Timely kalender of klik om aan je RTF kalender toe te voegen.")
 -   [Voeg toe aan Google](https://www.google.com/calendar/render?cid=http%3A%2F%2Fm44brigade.nl%2F%3Fplugin%3Dall-in-one-event-calendar%26controller%3Dai1ec_exporter_controller%26action%3Dexport_events%26no_html%3Dtrue%26%26 "Neem een abonnement op deze kalender in je Google kalender")
 -   [Voeg toe aan Outlook](webcal://m44brigade.nl/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true "Neem een abonnement op deze kalender in MS Outlook")
 -   [Voeg toe aan Apple Kalender](webcal://m44brigade.nl/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true "Neem een abonnement op deze kalender in Apple Kalender/iCal")
--   [Voeg toe aan andere kalender](http://m44brigade.nl/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true "Neem abonnement op deze kalender in een andere tekstkalender")
--   [Export to XML](http://m44brigade.nl/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&xml=true)
+-   [Voeg toe aan andere kalender](/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true "Neem abonnement op deze kalender in een andere tekstkalender")
+-   [Export to XML](/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&xml=true)

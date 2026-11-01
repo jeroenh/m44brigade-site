@@ -10,7 +10,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 **Hieronder de uitslag van de Memoir 44 Dutch Open 2018**
 
-[![M44DO2018einduitslag](http://m44brigade.nl/wp-content/uploads/2018/03/M44DO2018einduitslag.jpg)](http://m44brigade.nl/wp-content/uploads/2018/03/M44DO2018einduitslag.jpg)
+[![M44DO2018einduitslag](/wp-content/uploads/2018/03/M44DO2018einduitslag.jpg)](/wp-content/uploads/2018/03/M44DO2018einduitslag.jpg)
 
 ### Scenario 1: Lublin district
 
