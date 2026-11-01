@@ -14,4 +14,4 @@ Inscription fermée
 
 [![](/wp-content/uploads/2025/11/M44-DO26-poster-lowlow2026-11-14-722x1024.jpg)](/wp-content/uploads/2025/11/M44-DO26-poster-lowlow2026-11-14-scaled.jpg)
 
-     [](/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](/wp-content/uploads/2025/11/M44DO26Reglement2026-11-13.pdf)  [![](/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](/wp-content/uploads/2025/11/M44DO26Vademecum.pdf)
+     [](/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](/wp-content/uploads/2025/11/M44DO26Reglement2026-11-13.pdf)  [![](/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](/wp-content/uploads/2025/11/M44DO26Vademecum.pdf)

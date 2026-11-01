@@ -27,13 +27,13 @@ De Eindscore van de Memoir’44 Dutch Open 2023**
 
 <iframe src="https://www.youtube.com/embed/_G7RYJuXXTE?feature=oembed" title="M44Brigade Dutch Open 2023 – 02 la Riviera" width="860" height="484"></iframe>
 
-### Scenario 3: Bernieres Sur Mere – June 06, 1944
+### Scenario 3: Bernieres Sur Mere – June 06, 1944
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=24972)
 
 <iframe src="https://www.youtube.com/embed/nHR4QPnobdc?feature=oembed" title="M44Brigade Dutch Open 2023 – 03 Bernieres Sur Mere" width="860" height="484"></iframe>
 
-### Scenario 4: Operation Atlantic – July 18, 1944 – July 21, 1944
+### Scenario 4: Operation Atlantic – July 18, 1944 – July 21, 1944
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=24969)
 
@@ -45,7 +45,7 @@ De Eindscore van de Memoir’44 Dutch Open 2023**
 
 <iframe src="https://www.youtube.com/embed/phDafM_SJ0s?feature=oembed" title="M44Brigade Dutch Open 2023 – 05 Battle for Brest" width="860" height="484"></iframe>
 
-### Scenario 6: Liberation of ‘s-Hertogenbosch – October 22, 1944 – October 26, 1944
+### Scenario 6: Liberation of ‘s-Hertogenbosch – October 22, 1944 – October 26, 1944
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=24952)
 

@@ -32,13 +32,13 @@ Film and link tot the scenario
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/editor/view/?id=24374)
 
-### Scenario 3: Saarlautern Bridgehead
+### Scenario 3: Saarlautern Bridgehead
 
 <iframe src="https://www.youtube.com/embed/7GhGCLL5MFU" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/editor/view/?id=24364)
 
-### Scenario 4: Clearing of the Echternach Bulge
+### Scenario 4: Clearing of the Echternach Bulge
 
 <iframe src="https://www.youtube.com/embed/np08GgQ2Zkk" width="560" height="315"></iframe>
 
@@ -50,7 +50,7 @@ Film and link tot the scenario
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/editor/view/?id=24380)
 
-### Scenario 6: Operation Undertone
+### Scenario 6: Operation Undertone
 
 <iframe src="https://www.youtube.com/embed/Bnc8fW3un_Y" width="560" height="315"></iframe>
 

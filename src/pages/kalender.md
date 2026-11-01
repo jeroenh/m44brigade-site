@@ -193,7 +193,7 @@ Dutch Open 2027 @ Niervaert (Klundert)
 
 feb 20 – feb 21 hele dag
 
-De datum staat, verdere info volgt snel……..
+De datum staat, verdere info volgt snel……..
 
 [![](/wp-content/uploads/2026/02/Afbeelding1-300x202.jpg)](/wp-content/uploads/2026/02/Afbeelding1.jpg)
 

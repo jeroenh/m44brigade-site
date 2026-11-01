@@ -14,4 +14,4 @@ Inscription fermée
 
 [![](/wp-content/uploads/2024/09/Peral-of-the-Danube-1024x708.png)](/wp-content/uploads/2024/09/Peral-of-the-Danube.png)
 
-     [](/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](/wp-content/uploads/2024/09/M44DO25Reglement.pdf)  [![](/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](/wp-content/uploads/2024/09/M44DO25Vademecum.pdf)
+     [](/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](/wp-content/uploads/2024/09/M44DO25Reglement.pdf)  [![](/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](/wp-content/uploads/2024/09/M44DO25Vademecum.pdf)

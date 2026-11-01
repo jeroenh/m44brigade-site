@@ -12,13 +12,13 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 [![M44DO2018einduitslag](/wp-content/uploads/2018/03/M44DO2018einduitslag.jpg)](/wp-content/uploads/2018/03/M44DO2018einduitslag.jpg)
 
-### Scenario 1: Lublin district
+### Scenario 1: Lublin district
 
 <iframe src="https://www.youtube.com/embed/eDDYVDg5rE0" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=20080)
 
-### Scenario 2: District Bialystok
+### Scenario 2: District Bialystok
 
 <iframe src="https://www.youtube.com/embed/-w_UbdW4haE" width="560" height="315"></iframe>
 
@@ -29,13 +29,13 @@ layout: ../layouts/MarkdownPageLayout.astro
 <iframe src="https://www.youtube.com/embed/qdQxwY-WQpg" width="560" height="315"></iframe>
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=20102)
 
-### Scenario 4: Warsaw Old Town
+### Scenario 4: Warsaw Old Town
 
 <iframe src="https://www.youtube.com/embed/PcyvX-fvqcY" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=20096)
 
-### Scenario 5: Warsaw City Centre
+### Scenario 5: Warsaw City Centre
 
 <iframe src="https://www.youtube.com/embed/GvGT5tG_btg" width="560" height="315"></iframe>
 

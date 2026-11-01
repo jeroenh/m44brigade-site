@@ -6,16 +6,4 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 ## Contact
 
-Uw naam (verplicht)
-
-Uw email (verplicht)
-
-Onderwerp
-
-Uw bericht
-
-Captcha
-Neem deze letters/cijfers over
-![captcha](/wp-content/uploads/wpcf7_captcha/3345242759.png)
-
-Δ
+Hier komt nog een contact formulier.

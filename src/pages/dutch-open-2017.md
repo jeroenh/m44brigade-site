@@ -12,13 +12,13 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 [![](/wp-content/uploads/2017/04/eindstand-dutcj-opem-2017.jpg)](/wp-content/uploads/2017/04/eindstand-dutcj-opem-2017.jpg)
 
-### Scenario 1: Ladbroke
+### Scenario 1: Ladbroke
 
 <iframe src="https://www.youtube.com/embed/-XucqUjn84s" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=20077)
 
-### Scenario 2: Gela Landing
+### Scenario 2: Gela Landing
 
 <iframe src="https://www.youtube.com/embed/M_ssV188jcw" width="560" height="315"></iframe>
 
@@ -30,13 +30,13 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=20072)
 
-### Scenario 4: Tobacco Factory
+### Scenario 4: Tobacco Factory
 
 <iframe src="https://www.youtube.com/embed/wsJboxCzrVs" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](https://www.daysofwonder.com/memoir44/en/editor/view/?id=19081)
 
-### Scenario 5: Ortona
+### Scenario 5: Ortona
 
 <iframe src="https://www.youtube.com/embed/zkhZZv2YQMc" width="560" height="315"></iframe>
 
