@@ -3,6 +3,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://jeroenh.github.io',
-	base: '/m44brigade-site',
+	site: 'https://www.m44brigade.nl',
 });
