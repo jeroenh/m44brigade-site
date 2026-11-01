@@ -6,7 +6,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 ## Over ons
 
-[![IMG\_1713](https://web.archive.org/web/20260610144125im_/http://m44brigade.nl/wp-content/uploads/2014/10/IMG_1713-294x300.jpg)](https://web.archive.org/web/20260610144125/http://m44brigade.nl/wp-content/uploads/2014/10/IMG_1713.jpg)
+[![IMG\_1713](http://m44brigade.nl/wp-content/uploads/2014/10/IMG_1713-294x300.jpg)](http://m44brigade.nl/wp-content/uploads/2014/10/IMG_1713.jpg)
 
 #### Memoir’44 Brigade Nederland
 

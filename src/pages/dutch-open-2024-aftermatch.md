@@ -9,11 +9,11 @@ layout: ../layouts/MarkdownPageLayout.astro
 **End results of the Memoir’44 Dutch Open 2024
 De Eindscore van de Memoir’44 Dutch Open 202** 4
 
-[![](https://web.archive.org/web/20260610145150im_/http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding12-1-742x1024.png)](https://web.archive.org/web/20260610145150/http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding12-1.png)
+[![](http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding12-1-742x1024.png)](http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding12-1.png)
 
-[![](https://web.archive.org/web/20260610145150im_/http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding13-1.png)](https://web.archive.org/web/20260610145150/http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding13-1.png)
+[![](http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding13-1.png)](http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding13-1.png)
 
-[![](https://web.archive.org/web/20260610145150im_/http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding14-1.png)](https://web.archive.org/web/20260610145150/http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding14-1.png)
+[![](http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding14-1.png)](http://m44brigade.nl/wp-content/uploads/2025/03/Afbeelding14-1.png)
 
 Scenario 1: Battle for Woensdrecht en Hoogerheide
 

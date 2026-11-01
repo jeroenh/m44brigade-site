@@ -12,6 +12,6 @@ Registration closed
 
 Inscription fermée
 
-[![](https://web.archive.org/web/20260610160627im_/http://m44brigade.nl/wp-content/uploads/2025/11/M44-DO26-poster-lowlow2026-11-14-722x1024.jpg)](https://web.archive.org/web/20260610160627/http://m44brigade.nl/wp-content/uploads/2025/11/M44-DO26-poster-lowlow2026-11-14-scaled.jpg)
+[![](http://m44brigade.nl/wp-content/uploads/2025/11/M44-DO26-poster-lowlow2026-11-14-722x1024.jpg)](http://m44brigade.nl/wp-content/uploads/2025/11/M44-DO26-poster-lowlow2026-11-14-scaled.jpg)
 
-     [](https://web.archive.org/web/20260610160627/http://m44brigade.nl/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](https://web.archive.org/web/20260610160627im_/http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](https://web.archive.org/web/20260610160627/http://m44brigade.nl/wp-content/uploads/2025/11/M44DO26Reglement2026-11-13.pdf)  [![](https://web.archive.org/web/20260610160627im_/http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](https://web.archive.org/web/20260610160627/http://m44brigade.nl/wp-content/uploads/2025/11/M44DO26Vademecum.pdf)
+     [](http://m44brigade.nl/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](http://m44brigade.nl/wp-content/uploads/2025/11/M44DO26Reglement2026-11-13.pdf)  [![](http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](http://m44brigade.nl/wp-content/uploads/2025/11/M44DO26Vademecum.pdf)

@@ -8,7 +8,7 @@ layout: ../layouts/MarkdownPageLayout.astro
 
 Hieronder de uitslag van de Memoir 44 Dutch Open 2016.
 
-[![M44DO2016einduitslag](https://web.archive.org/web/20260610154835im_/http://m44brigade.nl/wp-content/uploads/2016/04/M44DO2016einduitslag-456x1024.jpg)](https://web.archive.org/web/20260610154835/http://m44brigade.nl/wp-content/uploads/2016/04/M44DO2016einduitslag.jpg)
+[![M44DO2016einduitslag](http://m44brigade.nl/wp-content/uploads/2016/04/M44DO2016einduitslag-456x1024.jpg)](http://m44brigade.nl/wp-content/uploads/2016/04/M44DO2016einduitslag.jpg)
 
 #### Talvisota, De Russisch-Finse Winteroorlog van 1939-1940
 
@@ -21,45 +21,45 @@ after weeks of diplomatic talks between Russia and Finland Russian troops invade
 
 Voor de Dutch Open hadden we twee aangepaste kaartjes:
 
-![Deep Frozen Rivers](https://web.archive.org/web/20260610154835im_/http://m44brigade.nl/wp-content/uploads/2017/01/M44CCTerrain47aDeepFrozenRivers.png)
+![Deep Frozen Rivers](http://m44brigade.nl/wp-content/uploads/2017/01/M44CCTerrain47aDeepFrozenRivers.png)
 
-![http://m44brigade.nl/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png](https://web.archive.org/web/20260610154835im_/http://m44brigade.nl/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png)
+![http://m44brigade.nl/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png](http://m44brigade.nl/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png)
 
 ### Scenario 1: Taipale River
 
 <iframe src="https://www.youtube.com/embed/MQcHeozY-mc" width="560" height="315"></iframe>
 
-[Link to scenario on DOW website](https://web.archive.org/web/20260610154835/http://www.daysofwonder.com/memoir44/en/editor/view/?id=17300)
+[Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17300)
 
 ### Scenario 2: Kollaa
 
 <iframe src="https://www.youtube.com/embed/1Q00x_DSuT8" width="560" height="315"></iframe>
 
-[Link to scenario on DOW website](https://web.archive.org/web/20260610154835/http://www.daysofwonder.com/memoir44/en/editor/view/?id=20149)
+[Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=20149)
 
 ### Scenario 3: Tolvajarvi
 
 ### <iframe src="https://www.youtube.com/embed/_Vr5h2EW-64" width="560" height="315"></iframe>
 
-[Link to scenario on DOW website](https://web.archive.org/web/20260610154835/http://www.daysofwonder.com/memoir44/en/editor/view/?id=17759)
+[Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17759)
 
 ### Scenario 4: 44th Motti
 
 <iframe src="https://www.youtube.com/embed/mA5KwCmUbcM" width="560" height="315"></iframe>
 
-[Link to scenario on DOW website](https://web.archive.org/web/20260610154835/http://www.daysofwonder.com/memoir44/en/editor/view/?id=17760)
+[Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17760)
 
 ### Scenario 5: Honkaniemi
 
 <iframe src="https://www.youtube.com/embed/4mFRYGHvzTc" width="560" height="315"></iframe>
 
-[Link to scenario on DOW website](https://web.archive.org/web/20260610154835/http://www.daysofwonder.com/memoir44/en/editor/view/?id=17997)
+[Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17997)
 
 ### Scenario 6: Final Push
 
 <iframe src="https://www.youtube.com/embed/4wh8C9xkPVk" width="560" height="315"></iframe>
 
-[Link to scenario on DOW website](https://web.archive.org/web/20260610154835/http://www.daysofwonder.com/memoir44/en/editor/view/?id=17490)
+[Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17490)
 
 ### Foto’s
 

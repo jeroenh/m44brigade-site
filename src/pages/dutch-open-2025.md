@@ -12,6 +12,6 @@ Registration closed
 
 Inscription fermée
 
-[![](https://web.archive.org/web/20260610155859im_/http://m44brigade.nl/wp-content/uploads/2024/09/Peral-of-the-Danube-1024x708.png)](https://web.archive.org/web/20260610155859/http://m44brigade.nl/wp-content/uploads/2024/09/Peral-of-the-Danube.png)
+[![](http://m44brigade.nl/wp-content/uploads/2024/09/Peral-of-the-Danube-1024x708.png)](http://m44brigade.nl/wp-content/uploads/2024/09/Peral-of-the-Danube.png)
 
-     [](https://web.archive.org/web/20260610155859/http://m44brigade.nl/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](https://web.archive.org/web/20260610155859im_/http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](https://web.archive.org/web/20260610155859/http://m44brigade.nl/wp-content/uploads/2024/09/M44DO25Reglement.pdf)  [![](https://web.archive.org/web/20260610155859im_/http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](https://web.archive.org/web/20260610155859/http://m44brigade.nl/wp-content/uploads/2024/09/M44DO25Vademecum.pdf)
+     [](http://m44brigade.nl/wp-content/uploads/2017/11/M44DO18Reglement.pdf)[![](http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerRegels-1024x337.jpg) ](http://m44brigade.nl/wp-content/uploads/2024/09/M44DO25Reglement.pdf)  [![](http://m44brigade.nl/wp-content/uploads/2018/11/M44DOBannerVademecum-1024x337.jpg)](http://m44brigade.nl/wp-content/uploads/2024/09/M44DO25Vademecum.pdf)
