@@ -32,7 +32,7 @@ Toernooi: Dutch Open 2015
 
 * http://picasaweb.google.com/data/feed/base/user/111283227169616839632/albumid/6122354111556107889?alt=rss&hl=en_US&kind=photo
 
-Speeldag: D-Day landing te Klundert op 12 juli 2014
+Speeldag: D-Day landing te Klundert op 12 juli 2014
 
 * http://picasaweb.google.com/data/feed/base/user/111283227169616839632/albumid/6036015330927637505?alt=rss&hl=en_US&kind=photo
 
