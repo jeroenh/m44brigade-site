@@ -25,13 +25,13 @@ Voor de Dutch Open hadden we twee aangepaste kaartjes:
 
 ![/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png](/wp-content/uploads/2017/01/M44CCSWA21MolotovBold.png)
 
-### Scenario 1: Taipale River
+### Scenario 1: Taipale River
 
 <iframe src="https://www.youtube.com/embed/MQcHeozY-mc" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17300)
 
-### Scenario 2: Kollaa
+### Scenario 2: Kollaa
 
 <iframe src="https://www.youtube.com/embed/1Q00x_DSuT8" width="560" height="315"></iframe>
 
@@ -43,13 +43,13 @@ Voor de Dutch Open hadden we twee aangepaste kaartjes:
 
 [Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17759)
 
-### Scenario 4: 44th Motti
+### Scenario 4: 44th Motti
 
 <iframe src="https://www.youtube.com/embed/mA5KwCmUbcM" width="560" height="315"></iframe>
 
 [Link to scenario on DOW website](http://www.daysofwonder.com/memoir44/en/editor/view/?id=17760)
 
-### Scenario 5: Honkaniemi
+### Scenario 5: Honkaniemi
 
 <iframe src="https://www.youtube.com/embed/4mFRYGHvzTc" width="560" height="315"></iframe>
 

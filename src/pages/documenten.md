@@ -25,14 +25,14 @@ Een overzicht op 2 A-viertjes van terrein en troepen in het Frans. Met dank aan 
 [Overloon Forrest Overlord](/documenten/Overloon-Forest-Overlord1.1-.pdf)
 Beschrijving van de Overlord versie die met de eerste twee scenarios van de Dutch Open 2015 (Overloon Forest en Hattert Harassment) gespeeld kan worden.
 
-[Urban Combat Cards NL](http://cdn0.daysofwonder.com/memoir44/en/img/mm_op3_cards_nl.pdf)
+[Urban Combat Cards NL](/documenten/mm_op3_cards_nl.pdf)
 Nederlandse beschrijving van de Urban Combat Cards die bij de Memoir’44 battlemap  [Sword of Stalingrad](http://www.daysofwonder.com/memoir44/en/maps-and-boards/sword-of-stalingrad/)  geleverd worden.
 
-[New Flight Plan combat cards NL](/wp-content/uploads/2022/01/M44-New-flight-plan-combatcards.pdf)
+[New Flight Plan combat cards NL](/documenten/M44-New-flight-plan-combatcards.pdf)
 Nederlandse beschrijving van de New Flight Plan combat cards die bij de Memoir’44 New Flight Plan  [New Flight Plan](https://www.daysofwonder.com/memoir44/en/other-expansions/new-flight-plan/)  geleverd worden.
 
-[Winter Combat Cards NL](/wp-content/uploads/2020/07/M44_WW_CC_dutch.pdf)
+[Winter Combat Cards NL](/documenten/M44_WW_CC_dutch.pdf)
 Nederlandse beschrijving van de Winter Combat Cards die bij de Memoir’44 Uitbreiding  [Winter Wars](https://www.daysofwonder.com/memoir44/en/other-expansions/winter-wars/)  geleverd worden. Met dank aan Memoir’44-speler Kristof Brodeoux.
 
-<!--[Mijnenvelden](/wp-content/uploads/2020/07/Schermafbeelding-2020-07-22-om-11.11.27.png)
-Overzicht van de aantallen verschillende mijnen tokens in de verschillende Memoir’44 uitbreidingen -->
+[Mijnenvelden](/documenten/MijnenOverzicht.png)
+Overzicht van de aantallen verschillende mijnen tokens in de verschillende Memoir’44 uitbreidingen
